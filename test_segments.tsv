@@ -1,0 +1,848 @@
+﻿seg_id	source_masked	target_masked	translated_masked
+acec608f-5924-4fdf-b229-64e2df956928	Джуури и татский язык: о взаимном статусе и структурных различиях		Juhuri and the Tat Language: On Mutual Status and Structural Differences
+0a39468c-ae23-4dc9-9a39-a742e8b24c5a	Ксения Викторова		Ksenia Viktorova
+0db871e2-8378-431a-a323-e60225058c0a	Введение		Introduction
+04e17386-3b39-47d7-9a81-2a7d204d0630	Джуури – язык горских евреев, один из целого ряда еврейско-иранских языков.		Juhuri is the language of Mountain Jews, one of a whole number of Judeo-Iranian languages.
+f98a551f-6f49-43f2-a3c2-77e8e5bdd1ab	Он относится к югозападной подгруппе иранской ветви индоевропейской языковой семьи наряду с еврейско-персидским (языком классической иудео-персидской литературы), еврейско-таджикским (бухори) и еврейско-ширазским языками.		It belongs to the Southwestern subgroup of the Iranian branch of the Indo-European language family, alongside Judeo-Persian (the language of classical Judeo-Persian literature), Judeo-Tajik (Bukhori), and Judeo-Shirazi.
+47d12641-432d-4b43-8899-8b5686e37826	Еврейско-иранские языки никогда не были официальными языками каких-либо административных образований или политических единиц.		Judeo-Iranian languages have never been official languages of any administrative entities or political units.
+5c0a3d64-1cfb-4c0f-bf43-7c91d6a6da62	Они не использовались в образовании, так как их носители получали традиционное еврейское образование, нацеленное на овладение древнееврейским языком.		They were not used in education, as their speakers received a traditional Jewish education aimed at mastering Hebrew.
+13987206-cc81-43c4-ab43-8b63426d7f22	Ни эти люди, ни их соседи – носители доминирующих языков не считали разговорные еврейско-иранские языки достойными лингвистического изучения и описания, и вопросы их диалектных сходств и различий даже не ставились.		Neither these people nor their neighbors—speakers of the dominant languages—considered the spoken Judeo-Iranian languages worthy of linguistic study and description, and questions regarding their dialectal similarities and differences were not even raised.
+a0d1d013-d85a-45c4-aac0-1013abb74dfc	Их изучение началось ближе к моменту их исчезновения.		Their study began closer to the time of their extinction.
+08a8745c-0996-43f4-9ccc-af786b00abf0	К сожалению, со многими языками мира случается именно это.		Unfortunately, this is precisely what happens to many of the world's languages.
+bcc0396e-5fcf-4c35-8cf1-66fba6355889	Среди всех еврейско-иранских языков судьбу языка джуури можно назвать счастливой.		Among all Judeo-Iranian languages, the fate of the Juhuri language can be called fortunate.
+94a1fb6e-8b22-46e7-af68-5ac519cc4b3b	С установлением советской власти для джуури на Кавказе, как и для еврейско-бухарского языка в Узбекистане начинается новая эпоха: советское государство первым в мире «увидело» миноритарные языки на своей территории, поскольку в первые годы после революции 1917 г. большевики опирались на языки «простого народа» в построении новой культуры и подготовке новых элит, лояльных советской власти.		"With the establishment of Soviet power, a new era began for Juhuri in the Caucasus, as well as for Judeo-Bukharic in Uzbekistan: the Soviet state was the first in the world to ""see"" minority languages on its territory, since in the first years after the 1917 revolution, the Bolsheviks relied on the languages of the ""common people"" in building a new culture and preparing new elites loyal to Soviet power."
+e94ce4ea-1860-42f9-9ad1-8d5587712d4d	В 1930-х гг. национальная политика в СССР, как известно, резко переменилась, но и горские, и бухарские евреи успели сделать очень много для развития своих литературных языков (Borjan 2015:		In the 1930s, national policy in the USSR, as is well known, shifted abruptly, but both Mountain and Bukharan Jews managed to do a great deal to develop their literary languages (Borjan 2015:
+6779ef47-570f-431f-810a-aea8a433d205	262ff).		262ff).
+116c1b63-0c05-4a83-86db-a4fddb1ed4f3	После распада СССР горские евреи основали несколько активно работающих культурных центров, самый крупный из которых – благотворительный фонд СТМЭГИ, уделяющий очень много внимания и средств поддержке, развитию, сохранению и изучению джуури.		After the collapse of the USSR, Mountain Jews founded several active cultural centers, the largest of which is the STMEGI Charitable Foundation, which devotes a great deal of attention and resources to supporting, developing, preserving, and studying Juhuri.
+e4d2f185-cf16-493a-a918-ab8f598ffefb	Татский язык принадлежит к той же языковой группе, это язык, близкородственный джуури, но никакого отношения к еврейским языкам татский не имеет.		The Tat language belongs to the same language group; it is a language closely related to Juhuri, but Tat has no relation to Jewish languages.
+f66e761e-1cf6-47a6-9d0c-e6b5a6cc0453	Большинство его носителей мусульмане.		The majority of its speakers are Muslims.
+0ff75c25-41ba-4cd4-a1f2-f7717232cc46	Существует группа татов-христиан, некоторые особенности их языка упоминаются в тех описаниях, на которых основана эта статья, но подробно он не описан, поэтому здесь не рассматривается.		There is a group of Christian Tats; some features of their language are mentioned in the descriptions on which this article is based, but it has not been described in detail, so it is not considered here.
+fa56d5f3-4bb8-46d3-995e-d8668738d999	Я буду сопоставлять только язык татов-мусульман и джуури горских евреев.		I will compare only the language of Muslim Tats and the Juhuri of Mountain Jews.
+26d561f4-3410-4e1b-8923-ce4a4b6cfd33	В советское время языки горских евреев, татов-мусульман и татов-христиан с точки зрения государства объединялись в один язык – татский, а сами они легким логическим скачком превращались в один народ – таты.		In Soviet times, from the point of view of the state, the languages of Mountain Jews, Muslim Tats, and Christian Tats were combined into a single language—Tat—and they themselves, with an easy leap of logic, were transformed into a single people—Tats.
+0aea14b9-0c32-4e91-a842-dee4cd4c38c1	Против «татизации» среди горских евреев раздавалось немало возмущенных голосов.		"Many indignant voices were raised against ""Tatization"" among the Mountain Jews."
+3bca49b5-f7e2-428b-bdd6-c79da9b35ab2	На основе полевых исследований 2024 – 2025 гг. у меня сложилось впечатление, что сейчас «татизация» уже не является для сообщества настолько болезненной темой, насколько она была в позднесоветский и постсоветский период.		"Based on field research in 2024–2025, I have gained the impression that ""Tatization"" is no longer as painful a topic for the community as it was in the late Soviet and post-Soviet periods."
+e3725ddf-90f4-4f55-af7a-4be4d43c74bb	Можно сказать, что сбылось предсказание Михаила Членова, сделанное в 2000 г.:		One could say that Mikhail Chlenov's prediction made in 2000 has come true:
+71d0c560-de38-4e74-8422-37a08cec9ede	«“Татская” теория продолжает как-то существовать только в Дагестане, где таты официально признаны одним из народов республики...		"""The 'Tat' theory continues to exist somehow only in Dagestan, where Tats are officially recognized as one of the peoples of the republic..."
+45dfa985-9b2c-4173-8aa7-7a4306929ee0	Однако политическая напряженность и экономический кризис в этой части России приводит к оттоку оттуда горских евреев.		However, political tension and the economic crisis in this part of Russia lead to an outflow of Mountain Jews from there.
+60d5274d-b306-413a-a10b-bad5eb8000bf	Вместе с ними слабеет и татская теория, конец которой, видимо, уже близок» (Членов 2000:		"Along with them, the Tat theory is also weakening, and its end is seemingly already near"" (Chlenov 2000:"
+0013221f-b835-49a7-8175-4ffcd9da9e14	194, курсив мой – К.В.).		194, my italics – K.V.).
+2da9fff3-9966-403d-8903-e991fe4fa426	Никакой национальной общности поверх конфессиональных границ, которая грезилась советским чиновникам, не сложилось: горские евреи и сегодня отличают себя от татов-мусульман, что совершенно не препятствует деловым, экономическим и дружеским контактам на индивидуальном уровне.		No national community spanning confessional boundaries, such as Soviet officials dreamed of, ever emerged: Mountain Jews even today distinguish themselves from Muslim Tats, which in no way impedes business, economic, and friendly contacts on an individual level.
+3714b690-b7b5-40db-8fcb-b1db7d0729dd	Сходство и различие языков было одним из аргументов в дискуссии о татизации, поэтому странно, что лингвистическое сравнение татского и джуури до сих пор не было сделано.		The similarity and difference between the languages was one of the arguments in the debate on Tatization, so it is strange that a linguistic comparison of Tat and Juhuri has not been conducted to date.
+997a29d2-dfd1-420f-98db-2d700c62aaf5	Мне известны два очень лаконичных перечня различий между татским языком и джуури (Shalem n.d., Authier 2012:		I am aware of two very concise lists of differences between the Tat language and Juhuri (Shalem n.d., Authier 2012:
+6d568520-44b8-4e00-8a51-1f9dab891e6d	28) – насколько я знаю, других компаративных описаний пока не существует.		28) – as far as I know, no other comparative descriptions currently exist.
+b4b81f14-0056-4637-9d7b-96c43a0a8203	Задача этой статьи – сделать первоначальный обзор структурных различий между татским языком и джуури.		The objective of this article is to provide an initial overview of the structural differences between the Tat language and Juhuri.
+a5becbf1-c206-4b9b-a7bf-cfc24a5db014	Лингвистическая часть предваряется историческим обзором, в котором описаны разные представления о статусе и названии джуури и история его изучения – создания тех  описаний, которые послужили материалом для этой статьи.		The linguistic part is preceded by a historical overview describing different perspectives on the status and name of Juhuri and the history of its study—the creation of those descriptions that served as material for this article.
+d8cdcefe-f87e-479f-b512-15cc66c55eae	В некоторых случаях я привлекаю дополнительный материал из книг на джуури, выложенных на портале фонда СТМЭГИ.		In some cases, I draw additional material from books in Juhuri uploaded to the STMEGI Foundation portal.
+92daab73-5bd0-4e3d-b968-c12177d1c1c4	Надо оговорить, что не существует никаких чисто лингвистических способов отличить два разных языка от двух диалектов одного и того же языка: такие вопросы решаются не на основании лингвистических данных, а с учетом социальных, политических, нередко и экономических факторов.		It should be noted that there are no purely linguistic ways to distinguish two different languages from two dialects of the same language: such issues are resolved not on the basis of linguistic data, but taking into account social, political, and often economic factors.
+925062f4-9d5e-4e94-b23d-365163f6a08d	Как будет показано в следующем разделе, по поводу названия джуури и его статуса существуют очень разные мнения, поэтому мне надо обосновать выбор термина «язык джуури», а не, например, «северный диалект татского языка».		"As will be shown in the next section, there are very different opinions regarding the name of Juhuri and its status, so I need to justify the choice of the term ""Juhuri language"" rather than, for example, ""Northern dialect of the Tat language."""
+ffbfedab-06a1-479c-a395-b8628d75321d	Это легко: я использую тот термин, который предпочитают и пропагандируют языковые активисты из числа представителей сообщества, потому что хочу поддержать их.		This is easy: I use the term that language activists from among the community members prefer and promote, because I want to support them.
+c69f2fd5-349a-4189-a84e-044291004d56	История изучения и именования джуури		History of the study and naming of Juhuri
+22108044-1c59-480f-ba6c-f8457ae3907d	Первое упоминание о джуури в печати принадлежит Иуде Черному и сделано в 1869 г. (Черный 2017).		The first mention of Juhuri in print belongs to Iuda Cherny and was made in 1869 (Cherny 2017).
+fdca6515-a9aa-4fb5-8864-348dabe08874	Вслед за носителями Черный называет называет джуури «фарсид(ск)о-татским» (24, 28) языком, приводит список слов и текст (24 – 26).		"Following native speakers, Cherny calls Juhuri a ""Farsid(ic)-Tat"" (24, 28) language, providing a word list and a text (24–26)."
+de1347fc-e91e-4dd3-9888-8d769267ec4e	В. И.		V. I.
+fb45fa18-2f10-4f20-b5dc-05faa0764d97	Немирович-Данченко, путешествовавший по Дагестану в 1876 г., сообщает, что жители называют свой язык «фарситским татским» (Немирович-Данченко 2017:		"Nemirovich-Danchenko, who traveled in Dagestan in 1876, reports that the inhabitants call their language ""Farsi Tat"" (Nemirovich-Danchenko 2017:"
+309c42b5-4e95-4758-854e-30de062353f4	77).		77).
+03fa72b2-6980-49ca-a929-4bb4518cd819	В этом эндолингвониме подчеркивается иранское происхождение языка.		This endolinguaonym emphasizes the Iranian origin of the language.
+30d558b0-46e5-4407-911c-217445e709c8	Этнограф Илья Анисимов, сам носитель джуури, обычно называет его татским, но также татско-еврейским (186) или горским (228) и не противопоставляет языку татов-мусульман, считая, что горские евреи и таты-мусульмане говорят на одном языке (Анисимов 2017:		Ethnographer Ilya Anisimov, himself a speaker of Juhuri, usually calls it Tat, but also Tat-Jewish (186) or Mountain (228) and does not contrast it with the language of Muslim Tats, believing that Mountain Jews and Muslim Tats speak the same language (Anisimov 2017:
+09f48882-8ef2-495b-af4f-a2135f4d5dc1	173).		173).
+ac4b96ec-9d91-4cc5-b183-db1344f2dda8	Языком татов-евреев (Zand 2016:		"""The language of Tat Jews"" (Zand 2016:"
+44017a10-32fe-4873-b30e-f8284643e95c	30) называет джуури и другой носитель – раввин Яаков Ицхаки, который в 1880-х гг. создал первый словарь этого языка, но не успел издать его (только в 2016 г. этот словарь вышел в свет усилиями Михаэля Занда и под его редакцией).		30) is what another native speaker calls Juhuri — Rabbi Yaakov Itzhaki, who in the 1880s created the first dictionary of this language, but did not have time to publish it (only in 2016 was this dictionary published through the efforts and under the editorship of Michael Zand).
+38c2e433-2370-4f09-9d0c-921dc7c175cc	Таким образом, и в XIX в., задолго до начала советского культурного строительства, горские евреи называли свой язык татским, причем если возникала необходимость уточнить этот лингвоним, то в своей среде использовалось указание на происхождение языка: персидский, а не еврейский, так как еврейский язык один – это древнееврейский, язык священных текстов.		Thus, in the 19th century as well, long before the beginning of Soviet cultural construction, Mountain Jews called their language Tat; moreover, if there arose a need to clarify this linguaonym, an indication of the language's origin was used within their own community: Persian, not Jewish, since there is only one Jewish language—Hebrew, the language of sacred texts.
+14662ef2-7f77-47fd-8485-eaa3c0d158c6	В коммуникации же с внешними адресатами – в книге Анисимова, адресованной русскому читателю, в рукописи Яакова Ицхоки, которая планировалась к изданию в Палестине, – возникало указание на конфессиональную принадлежность группы: авторы считали важным сообщить внешней аудитории, не владеющей кавказскими реалиями, что носители этого татского языка – именно евреи.		In communication with external addressees, however—in Anisimov's book addressed to the Russian reader, in Yaakov Itzhaki's manuscript planned for publication in Palestine—an indication of the group's religious affiliation appeared: the authors considered it important to inform an external audience unfamiliar with Caucasian realities that the speakers of this Tat language were specifically Jews.
+66a6add7-0811-40ee-a1c5-237905053ef3	Важно подчеркнуть, что каким бы лингвонимом ни обозначали свой разговорный язык горские евреи в этот период, выбор лингвонима не имел никакой связи с этнической идентификацией.		It is important to emphasize that no matter what linguaonym Mountain Jews used to designate their spoken language during this period, the choice of linguaonym had no connection to ethnic identification.
+6fb212f0-c67c-486e-a570-a8b425de0a9e	Маркером идентичности в любом случае служил древнееврейский язык.		In any case, Hebrew served as the marker of identity.
+597ab3ad-c339-44cc-bb6a-6d2383cf4436	В этом отношении горские евреи не отличались от других еврейских общин.		In this respect, Mountain Jews did not differ from other Jewish communities.
+a40aecb4-78ec-4ee4-822c-b6980bdb6c09	Разговорный язык не имел функции маркера идентичности, поэтому общий с татами-мусульманами лингвоним вовсе не подразумевал этнической идентификации горских евреев с этой группой.		The spoken language did not function as a marker of identity, so sharing a linguaonym with Muslim Tats did not imply the ethnic identification of Mountain Jews with this group at all.
+dc6bbf61-096e-4ffb-b767-d5d2c7466943	Первое лингвистическое описание джуури сделал В. Ф.		The first linguistic description of Juhuri was made by V. F.
+ce682a1b-7ef6-456f-92bd-c649d876e90b	Миллер.		Miller.
+8089f914-5e73-48b6-a193-98d80fd40fbd	Его информантом был уже упоминавшийся Илья Анисимов, уроженец селения Тарки в Северном Дагестане, носитель северного диалекта джуури.		His informant was the aforementioned Ilya Anisimov, a native of the village of Tarki in Northern Dagestan, a native speaker of the northern dialect of Juhuri.
+25710697-a326-4faa-a65c-192bef09e60a	Миллер опубликовал сборник сказок, рассказанных Анисимовым (Миллер 1892), очерки фонетики и морфологии джуури (Миллер 1900, 1901), а также целый ряд других работ, посвященных отдельным аспектам описания джуури и публикации фольклорных текстов.		Miller published a collection of fairy tales told by Anisimov (Miller 1892), essays on the phonetics and morphology of Juhuri (Miller 1900, 1901), as well as a number of other works devoted to individual aspects of describing Juhuri and publishing folklore texts.
+9dd56f4d-9a33-4ed5-9c64-71ddb3e5c497	После установления советской власти на Кавказе лингвистическое изучение джуури впервые приобретает практическое значение.		After the establishment of Soviet power in the Caucasus, the linguistic study of Juhuri acquired practical significance for the first time.
+5a915615-fe72-449b-83f5-212b96deefb5	Советское государство стимулирует создание модернизированной светской письменной национальной культуры на языках «отсталых» народов, населяющих подвластную ему территорию.		"The Soviet state stimulated the creation of a modernized secular written national culture in the languages of the ""backward"" peoples inhabiting the territory under its control."
+522aaaca-4816-4dd0-bdb6-b887d5ada1cc	Среди горских евреев нашлось немало энергичных и талантливых людей, которые с энтузиазмом принялись за строительство такой культуры уже в начале 1920-х гг., до принятия каких-либо мер по стандартизации джуури.		Among the Mountain Jews, there were many energetic and talented people who enthusiastically set about building such a culture as early as the beginning of the 1920s, prior to any measures taken to standardize Juhuri.
+adbe370c-2ad4-4924-b1a4-896a8f0fc586	Очевидно, однако, что для школьного преподавания, официальных документов, СМИ, художественной литературы и прочих сфер функционирования языка, новых для джуури на тот момент, требуется наддиалектный стандарт, наделенный более высоким статусом, чем разговорный вариант, обслуживающий бытовую коммуникацию.		It is obvious, however, that school instruction, official documents, mass media, fiction, and other spheres of language functioning that were new to Juhuri at that time required a supradialectal standard endowed with a higher status than the spoken variety serving everyday communication.
+cf69181a-b62a-4130-b3bb-c4d2c881022b	Во второй половине 1920-х гг. проводились съезды, совещания и конференции, посвященные стандартизации языка и выбору алфавита, подробно описанные в статье (Агарунов 2018) .		In the second half of the 1920s, congresses, meetings, and conferences dedicated to language standardization and the choice of alphabet were held, described in detail in the article (Agarunov 2018).
+f1b84c35-5ff6-4606-83d4-3f2455bc0a32	Одним из участников этих мероприятий был иранист Б. В. Миллер, предпринявший в 1928 г. по поручению Общества обследования и изучения Азербайджана[[1:X:x]] экспедицию по местам проживания азербайджанских татов (Миллер 1929).		One of the participants in these events was the Iranologist B. V. Miller, who in 1928, on behalf of the Society for the Investigation and Study of Azerbaijan[[1:X:x]], undertook an expedition to the places inhabited by Azerbaijani Tats (Miller 1929).
+28e01eeb-7f6b-4b3e-94fc-719905e1b06e	По результатам этой экспедиции он написал статью о кубинском говоре джуури, в которой сопоставлял кубинский диалект с северным по описаниям своего отца В. Ф.		Based on the results of this expedition, he wrote an article on the Quba dialect of Juhuri, in which he compared the Quba dialect with the Northern dialect based on the descriptions of his father, V. F.
+b72faee6-7172-4508-a2e2-87223b8bdf26	Миллера (Миллер 1932).		Miller (Miller 1932).
+71ff2d5c-6b45-49f6-ab49-06e2b964a650	[[1:X:x]] Созданная по общественной инициативе государственная организация, на базе которой впоследствии было создано Азербайджанское отделение Закавказского филиала АН СССР.		[[1:X:x]] A state organization created on civic initiative, on the basis of which the Azerbaijan Branch of the Transcaucasian Affiliate of the USSR Academy of Sciences was later established.
+2355c70b-3d1d-4ed3-a076-1588c8bef31d	В том же году вышла книга другого информанта Миллера-старшего – Нафтали Цви Анисимова, племянника Ильи Анисимова, также носителя северного диалекта, востоковеда, который учился в Лазаревском институте восточных языков и на восточном отделении Гейдельбергского университета.		In the same year, a book was published by another informant of Miller Sr. – Naftali Tzvi Anisimov, nephew of Ilya Anisimov, also a native speaker of the Northern dialect, an Orientalist who had studied at the Lazarev Institute of Oriental Languages and in the Department of Oriental Studies at Heidelberg University.
+6f35912e-4195-4340-aabc-57fb6ea9ee17	Н.		N.
+24729889-4e3a-428c-b8fc-f3c5af0fd0ad	Анисимов написал на родном языке «Грамматику татского языка (Anisimov 1932) – фундаментальный труд, посвященный описанию фонетики, морфологии и синтаксиса джуури и предваряемый изложением основ современной (на тот момент) теоретической лингвистики.		"Anisimov wrote ""Grammar of the Tat Language"" (Anisimov 1932) in his native tongue – a foundational work devoted to the description of the phonetics, morphology, and syntax of Juhuri, preceded by an exposition of the fundamentals of modern (at that time) theoretical linguistics."
+c4120f61-2890-45a3-b120-fb7d467aede0	Грамматика Анисимова была не только дескриптивной, но и до некоторой степени нормативной: она предписывала и создавала норму там, где имелось варьирование.		Anisimov's grammar was not only descriptive, but also to some extent prescriptive: it dictated and created a norm where variation existed.
+1173476b-bc2f-4b82-b522-00967e5875e7	Многие варианты Анисимов сопровождает пометой ‘неправильно’ (duz nisti стр. 121, 123, 142 и др.).		Anisimov accompanied many variants with the label ‘incorrect’ (duz nisti pp. 121, 123, 142, etc.).
+508df485-139e-4cf9-a02f-2f98bba74605	Разделу «Синтаксис» были предпосланы правила пунктуации.		"The ""Syntax"" section was preceded by punctuation rules."
+f171a842-569d-46de-af75-50d9326f7fce	С начала 1920-х до начала 1940-х гг. выходит целый ряд учебников джуури (Нисанов 1927, Бен-Герарий, Хаймович 1927, Худайнатов 1928, Lazarev 1934, Xanuxov 1937 и др., часть из них в еврейской, часть в латинской графике).		From the early 1920s to the early 1940s, a number of Juhuri textbooks were published (Nisanov 1927, Ben-Gerariy, Khaimovich 1927, Khudainatov 1928, Lazarev 1934, Xanuxov 1937, etc., some of them in Hebrew script, others in Latin script).
+b6e19c5a-469f-4633-9f6b-37d0aa436233	Все эти пособия созданы носителями языка.		All these textbooks were created by native speakers.
+1d83778c-ab3b-423c-ae6d-ba3d0dab8f83	В конце 1930-х гг. школьное преподавание на джуури было отменено, и интерес к описанию языка вновь оказывается ограничен академическими кругами.		In the late 1930s, school instruction in Juhuri was abolished, and interest in describing the language was once again confined to academic circles.
+142078cd-ac0e-4b38-99f6-0e70c2d26d6e	Некоторое освещение получила фонетика джуури, описанная Р.		Some coverage was given to the phonetics of Juhuri, described by R.
+b1d9bbd2-bf8c-408d-abb8-bd1228ad85ec	О.		O.
+a63471c2-e7d3-4bd6-bd67-575b5870e104	Шор (Шор 1949) и ученицей Б. В. Миллера В. С. Соколовой (Соколова 1953).		Shor (Shor 1949) and a student of B. V. Miller, V. S. Sokolova (Sokolova 1953).
+91754ed3-f06d-42b0-8252-88428afd00e2	Статья Шор посвящена собственно джуури, в ней анализируются и дополняются данные о консонантизме джуури, имеющиеся в работах В.Ф. и Б. В. Миллеров, тогда как работа Соколовой посвящена в первую очередь мусульманским татским говорам с привлечением некоторых примеров из джуури.		Shor's article is devoted to Juhuri proper; it analyzes and supplements the data on Juhuri consonantism found in the works of V. F. and B. V. Miller, whereas Sokolova's work is primarily devoted to Muslim Tat dialects, incorporating some examples from Juhuri.
+a38417c0-f47a-44cd-9403-6dcf725a11c9	Подробное описание всех уровней татского языка сделал А. Л. Грюнберг (Грюнберг 1963), оно несколько раз переиздавалось с уточнениями (Грюнберг, Давыдова 1982, Грюнберг 1997).		A detailed description of all levels of the Tat language was made by A. L. Grünberg (Grünberg 1963); it was republished several times with refinements (Grünberg, Davydova 1982, Grünberg 1997).
+f330d848-1d6d-471f-97b8-0f54e31ae77b	Материалом для всех этих описаний послужили собственные полевые данные авторов.		The material for all these descriptions was the authors' own field data.
+75f919af-2c47-4a9a-a167-c970bdcb831e	В русскоязычных работах досоветского и советского времени использовался лингвоним «еврейско-татский» или его разновидности, в работах на джуури zuhun tati ‘татский язык’.		"In Russian-language works of pre-Soviet and Soviet times, the linguonym ""Judeo-Tat"" or its variations was used, while in works in Juhuri it was zuhun tati 'Tat language'."
+aa62b3da-294c-46ac-974e-908f8629a870	Большинство авторов не задаются специально вопросом о статусе джуури, называя его то языком, то наречием или говорами.		Most authors do not specifically address the question of the status of Juhuri, referring to it variously as a language, a dialect, or subdialects.
+d70e8cc7-20e3-4376-80a2-8d580b9f6a56	В. С. Соколова использует бытовое слово «разновидности»:		"V. S. Sokolova uses the everyday word ""varieties"":"
+493d472d-a216-4e60-b6d4-9b44a02c0e3e	«татский язык известен в двух разновидностях: собственно татский (так называемый «мусульманско-татский») и еврейско-татский» (Соколова 1950:		"""the Tat language is known in two varieties: Tat proper (the so-called ""Muslim-Tat"") and Judeo-Tat"" (Sokolova 1950:"
+c1964ea8-fbe2-4fd7-918f-56dff197d1a4	20).		20).
+408f3e62-88a3-4b93-9c36-a2f23f5c0e54	Самую четкую позицию по поводу статуса идиомов занимает Грюнберг: ираноязычная народность таты по вероисповеданию делилась «ранее на две большие группы: таты-иудеи и таты-мусульмане.		"Grünberg takes the clearest position regarding the status of the idioms: the Iranian-speaking Tat ethnic group was ""previously divided by faith into two large groups: Judeo-Tats and Muslim-Tats."
+975fa661-e9ed-4280-a60f-f8ab643b0262	Это разделение сохраняется в настоящее время как языковое: каждая группа говорит на своем диалекте» (Грюнберг 1963:		"This division persists today as a linguistic one: each group speaks its own dialect"" (Grünberg 1963:"
+50a47368-7f0d-483f-984b-d8332fdfcabe	3).		3).
+7f04eaff-596e-4eeb-8560-c19c14a17154	Стремясь подчеркнуть преодоление пережитков прошлого, неактуальность конфессиональных границ в советской действительности, Грюнберг, в отличие от всех других авторов, выбирает для этих диалектов  максимально нейтральные термины: он называет джуури «северным диалектом татского языка», противопоставляя его «южному диалекту», т.е. языку татов-мусульман.		"Seeking to emphasize the overcoming of remnants of the past and the irrelevance of confessional boundaries in Soviet reality, Grünberg, unlike all other authors, chooses the most neutral terms for these dialects: he calls Juhuri the ""northern dialect of the Tat language,"" contrasting it with the ""southern dialect,"" i.e., the language of the Muslim Tats."
+285f89e3-0029-4748-b686-062a51bd3e55	С 1990-х гг. инициатива вновь переходит к сообществу.		Since the 1990s, the initiative has shifted back to the community.
+c95ff5d9-cdfc-4c4b-ad55-52ff9ddfcf95	Начинается настоящий бум лексикографической деятельности.		A real boom in lexicographical activity begins.
+e549f125-aa2a-4aec-913f-c7fe90f95707	В начале 1990-х гг. выходят два маленьких иллюстрированных словаря для младших школьников  (Ифраимов 1991, Изгияева 1995) и орфографический словарь (Гаврилов, Изгияева 1995), а в течение последующих лет один за другим появляются двуязычные (джуури-русские и русско-джуури) словари:		In the early 1990s, two small illustrated dictionaries for primary school students were published (Ifraimov 1991, Izgiyaeva 1995) alongside an orthographic dictionary (Gavrilov, Izgiyaeva 1995), and over the following years, bilingual (Juhuri–Russian and Russian–Juhuri) dictionaries appeared one after another:
+4b8da504-d577-430b-b0f6-266be2a70877	Агаруновы 1997 (второе издание 2010), Изгияева 2005, Дадашев 2006, Нафталиев 2016, Амир 2020, Семендуевы 2021, Гавриловы 2025.		Agarunovs 1997 (second edition 2010), Izgiyaeva 2005, Dadashev 2006, Naftaliev 2016, Amir 2020, Semenduevs 2021, Gavrilovs 2025.
+3786d312-fef6-40f0-9335-a88270d517e9	Все словари созданы носителями языка, не имеющими никакой лингвистической подготовки, которых только любовь к родному языку и восхищение перед его лексическими сокровищами заставили взвалить на себя этот колоссальный многолетний труд, и за каждым словарем стоит целая личная история[[1:X:x]].		All the dictionaries were created by native speakers without any linguistic training, driven solely by a love for their native language and admiration for its lexical treasures to undertake this colossal multi-year work, and behind each dictionary lies a whole personal story[[1:X:x]].
+d97a8e7d-fa3b-4528-9747-916e8b38e5e3	Эти словари, хотя и подготовленные лексикографами-непрофессионалами, являются ценнейшей базой для дальнейших исследований.		These dictionaries, although prepared by non-professional lexicographers, serve as an invaluable foundation for further research.
+12ea7e6f-dfef-49f6-8f26-a448f82c0979	Кроме словарей, публикуются учебники джуури Гаврилов, Авшалумов 1990 (переработка  учебника 1938 г.), Изгияева 2001, Исаков 2020, Исаков 2023.		In addition to dictionaries, Juhuri textbooks are published: Gavrilov, Avshalumov 1990 (a revision of the 1938 textbook), Izgiyaeva 2001, Isakov 2020, Isakov 2023.
+5dbfe413-8dc0-4c47-9340-874edbebc4a4	Они адресованы младшим школьникам и с методической точки зрения представляют собой учебники родного языка, с которых ребенок начинает знакомство с письменной речью.		They are addressed to primary school students and, from a methodological perspective, represent native language textbooks through which a child begins learning written speech.
+1c5d9e77-b775-4d32-a4b6-954d7e810031	Исключением является учебник Богданов 2019, адресованный взрослым, не владеющим джуури, и отличающийся внятностью грамматических описаний, так что его, с некоторыми оговорками, можно использовать как академическое описание джуури.		The exception is the textbook Bogdanov 2019, addressed to adults who do not speak Juhuri and distinguished by the clarity of its grammatical descriptions, so that, with certain reservations, it can be used as an academic description of Juhuri.
+81b83a24-fabe-4bdd-82ed-6b7690e5ce41	Остальные учебники могут служить лишь материалом для исследования, поскольку детей дошкольного и младшего школьного возраста, владеющих джуури как родным языком и начинающих читать на этом, а не на русском, английском, иврите или каком-либо другом языке, насколько я знаю, сегодня не существует.		The remaining textbooks can serve only as research material, since, as far as I know, today there are no children of preschool and primary school age who speak Juhuri as a native language and begin reading in it rather than in Russian, English, Hebrew, or any other language.
+89509171-59df-4228-a7b3-26a8c2d59dc7	[[1:X:x]] Необходимо упомянуть, что бОльшая часть словарей были опубликованы благодаря финансовой поддержке фонда СТМЭГИ и усилиям издательского центра фонда «Sholumi».		"[[1:X:x]] It should be mentioned that most of the dictionaries were published thanks to the financial support of the STMEGI Foundation and the efforts of the foundation's publishing center ""Sholumi""."
+6751b039-f5fd-4bf5-8e56-b593bea8ce40	Без этой поддержки подвиг стихийных лексикографов остался бы неизвестен широкой публике.		Without this support, the feat of these spontaneous lexicographers would have remained unknown to the general public.
+c187b3f1-aa65-4292-916c-efba7a699136	Научным изучением джуури в постсоветский период занималась Е.		The scientific study of Juhuri in the post-Soviet period was carried out by E.
+9549c9c9-8bfd-427f-a777-b829acbfbc5c	М.		M.
+425fc264-78c5-4815-9c58-a1705250e27d	Назарова, уроженка Махачкалы, стажировавшаяся под руководством Грюнберга.		Nazarova, a native of Makhachkala who completed an internship under the supervision of Grünberg.
+30290563-62b6-430e-b817-d85d3dd2dc8a	В центре ее исследовательского внимания была именная система и атрибутивные конструкции джуури (Назарова 1988, 1992, 2002).		The focus of her research was the nominal system and attributive constructions of Juhuri (Nazarova 1988, 1992, 2002).
+af599f59-db97-4d05-b872-de6dbd7d11bb	Работ по другим аспектам языка не появилось.		No works on other aspects of the language appeared.
+de6922f5-7e2c-48da-8b3f-d57e2613b9ff	В 2012 г. французский кавказовед Жиль Отье опубликовал очень содержательное, типологически ориентированное описание джуури на материале произведений советской горско-еврейской художественной литературы (Authier 2012).		In 2012, French Caucasianist Gilles Authier published a very comprehensive, typologically oriented description of Juhuri based on Soviet Mountain Jewish fiction (Authier 2012).
+de88b78e-c393-4a17-a1ae-ee307f6c7c21	Лингвоним в постсоветское время претерпевает дальнейшие метаморфозы.		In the post-Soviet period, the linguonym undergoes further metamorphoses.
+01c6f8b2-01e5-4b72-84d3-3f0eb8e7f5db	В начале 1990-х гг. в названиях словарей и учебников используется татский язык/зугьун тати без уточнений.		"In the early 1990s, the titles of dictionaries and textbooks used ""Tat language / zuhun tati"" without clarification."
+636d1760-3ca7-49b5-963d-3a116beec8b7	К 2000-м гг. в русскоязычных названиях распространяется вариант с уточнением:		By the 2000s, a version with clarification became widespread in Russian-language titles:
+39057da2-b360-4f8c-bba1-e3a0db1a281c	татский (еврейский/горско-еврейский) язык, а из названий на джуури упоминание о татском к этому моменту уже исчезает, и его заменяет жугьури.		"""Tat (Jewish/Mountain Jewish) language"", while in Juhuri-language titles, the mention of Tat had already disappeared by this point, replaced by ""zhuhuri""."
+610b3c59-2922-4775-8bdd-c2e5782f5874	В течение 2010-х гг. татский исчезает и из русскоязычных названий.		"During the 2010s, ""Tat"" disappeared from Russian-language titles as well."
+2495d206-f8ec-4283-8606-3c0fd828b761	В московских изданиях его полностью вытесняет джуури, в израильских используются два лингвонима: джуури и горско-еврейский.		In Moscow publications, it is completely displaced by Juhuri, while in Israeli publications, two linguonyms are used: Juhuri and Mountain Jewish.
+7f3075cf-c285-4796-b2e0-7e45432bf021	Для распространения в русском языке лингвонима джуури много сделала Е.		"E. did a lot to promote the linguonym ""Juhuri"" in the Russian language."
+6a2cf8bf-cd4d-48ea-94e3-4349baae34f8	М.		M.
+0ad102c9-b6cb-4f17-8948-e6ada99f289d	Назарова, которая посвятила вопросу об исконных и навязанных лингвонимах и этнонимах целый ряд работ (Назарова 2020, 2021, Назарова, Якубова 2023).		Nazarova, who devoted a number of works to the issue of native and imposed linguonyms and ethnonyms (Nazarova 2020, 2021, Nazarova, Yakubova 2023).
+5a485880-827d-4817-84d0-4ae3a2e125c5	Ее точку зрения поддержал московский фонд СТМЭГИ, во всех изданиях которого сейчас используется только джуури.		"Her point of view was supported by the Moscow STMEGI Foundation, which now uses only ""Juhuri"" in all its publications."
+cb0a336d-b7a3-4961-a579-e71e3ba1e700	В Азербайджане изучением татского языка занимались исследователи Т. М.		In Azerbaijan, the study of the Tat language was carried out by researchers T. M.
+b99ffff1-4514-403a-9922-49aac54f5bfa	Ахмедов, М.		Akhmedov, M.
+a7428c2f-01a8-4c5e-9961-6520853c1e53	И.		I.
+b35812e6-c6d6-4f92-89f8-5fb591d54ae4	Гаджиев, Г.		Hajiyev, G.
+b7f531cf-1883-4ddb-b524-a4fa2e566cde	И.		I.
+88f199fe-2a6f-4a11-9d60-f820d1b11848	Гусейнова.		Huseynova.
+a09697e5-2482-4059-846d-c7978a6ca577	Азербайджанские исследователи не называют язык горских евреев ни джуури, ни каким-либо другим лингвонимом и вообще никак не выделяют его из татского языка, отмечая, что горские евреи говорят по-татски и что, перейдя на татский язык, они сумели сохранить в нем значительное количество лексических единиц древнееврейского происхождения (Hacıyev 2009:		Azerbaijani researchers do not call the language of Mountain Jews Juhuri or by any other glottonym and do not single it out from the Tat language at all, noting that Mountain Jews speak Tat and that, having shifted to the Tat language, they managed to preserve in it a significant number of lexical units of Ancient Hebrew origin (Hacıyev 2009:
+9a64fdf7-3c23-43a3-8da4-3daecd60ab87	90, Hüseynova 2013:		90, Hüseynova 2013:
+24ef94c2-a7d6-4c9e-a7bd-796078a146c1	Например, все говоры Кубинского района, в котором проживает большое количество горских евреев, включаются в число северных говоров языка азербайджанских татов (Hacıyev 2009:		For example, all dialects of the Quba district, where a large number of Mountain Jews reside, are included among the northern dialects of the language of Azerbaijani Tats (Hacıyev 2009:
+a89de9b3-8e46-4110-9998-0ce4bea6665e	18).		18).
+f17648bd-88f0-40d5-bd74-d349f103509c	М.		M.
+d9490a1f-4f2d-4ac5-8b46-810c366e7259	Сулейманов (Национальный институт восточных языков и культур, Париж) постулирует существование еврейско-татского диалекта татского языка.		M. Suleymanov (National Institute for Oriental Languages and Civilizations, Paris) postulates the existence of a Judeo-Tat dialect of the Tat language.
+1589d74b-7525-4f1c-bca3-a23925866a37	В этом диалекте он выделяет шесть поддиалектов, остающихся, несмотря на географичесую удаленность друг от друга, «в основном однородными и взаимно понятными» (Suleymanov 2020:		"In this dialect, he identifies six subdialects that remain, despite their geographical distance from each other, ""largely homogeneous and mutually intelligible"" (Suleymanov 2020:"
+971932a6-953d-4b5c-bafb-0d1d22ff9560	27).		27).
+f52f84f3-a056-483a-8314-19e4140dd7cc	Только Н.		Only N.
+6329f6e8-ce20-4864-9505-dad96c97c553	Маммадова в диссертации, защищенной в этом же институте, характеризует еврейско-татский как отдельный «язык, очень близкий языку бакинских татов» (Mammadova 2017:		"Mammadova, in a dissertation defended at the same institute, characterizes Judeo-Tat as a separate ""language very close to the language of the Baku Tats"" (Mammadova 2017:"
+d175c288-a28f-4995-918a-74473a65b110	6).		6).
+995b888f-475b-40ac-a25c-2255d2cdb488	Практически в каждой работе используется своя система записи джуури и татского языка – фонетическая транскрипция, фонологическая транскрипция, разные варианты алфавитной записи.		Virtually every study uses its own system for recording Juhuri and the Tat language—phonetic transcription, phonological transcription, or various versions of alphabetic script.
+d93ac990-8403-4d28-8dca-f430778b799a	Хотя мне кажется желательным сохранять написание источников, в разделах по фонетике и морфологии пришлось от этого отказаться и унифицировать написание, иначе понять примеры просто невозможно.		Although I consider it desirable to preserve the spelling of the sources, in the sections on phonetics and morphology I had to abandon this and standardize the spelling, as otherwise it would be simply impossible to understand the examples.
+5fb8a782-1948-4847-8539-ffca25643c86	В разделе, посвященном лексике, написание источников сохраняется: кириллическая фонетическая транскрипция Миллера, запись на основе азербайджанского алфавита Гаджиева и Гусейновой, алфавитная запись Нафталиева и Агарунова.		In the section devoted to vocabulary, the spelling of the sources is preserved: Miller's Cyrillic phonetic transcription, Hajiyev and Huseynova's script based on the Azerbaijani alphabet, and Naftaliyev and Agarunov's alphabetic script.
+f2ca322a-f6cd-4185-8c38-f714ac67c0f1	Вокализм		Vocalism
+1f1b665b-3d44-4ab4-a896-efd03f4f8fcd	Система гласных фонем джуури такова:		The Juhuri vowel phoneme system is as follows:
+ed78fd62-8c83-482a-84b6-2f78e9b4a2ef	передний ряд		front
+0ee9e1bd-8bdd-4c85-a38a-deb5c0ef34f5	средний ряд		central
+59ca1eb1-49d0-442f-a395-04ec39e77b9a	задний ряд		back
+67e4f922-aee9-4951-9807-0eeb467e5288	неогубл		unrounded
+01d31636-312f-4377-ab99-ed94d34a3af0	огубл		rounded
+3aef8366-8c5f-40f6-bd2a-830169c1189a	неогубл		unrounded
+9181dc77-0134-423c-b180-597e51d95a96	огубл		rounded
+391e3809-661d-4353-bed2-d6cd592b7975	неогубл		unrounded
+3f40bd85-5045-41f8-b9b9-b913e11d28c2	огубл		rounded
+70cfc9eb-56e2-41ee-b29d-442d895e7d7b	верхний подъем		high
+4170b12d-e7f5-484d-9241-842dfd3f3d0c	средний подъем		mid
+c70d8241-5d70-44f8-98be-d48af1fde4de	нижний подъем		low
+8c4d239e-07da-4149-8227-e127edfeb39c	[[1:X:x]] Знак ə взят из алфавита.		[[1:X:x]] The symbol ə is taken from the alphabet.
+c516f76d-31af-44b3-a042-27506783e5b0	В МФА этот звук (ненапряженный неогубленный гласный переднего ряда нижнего подъема) обозначается неудобным символом æ, который при выделении курсивом почти сливается с œ, поэтому я не хочу его использовать.		In the IPA, this sound (a lax unrounded front low vowel) is denoted by the inconvenient symbol æ, which almost merges with œ when italicized, so I do not want to use it.
+c5b9e9fe-b44b-4c8e-b1ab-7ff65f80b7e3	Миллер и Грюнберг обозначают этот звук символом ä.		Miller and Grünberg denote this sound with the symbol ä.
+fdc42a3c-e25b-472d-a1ba-13961335ce27	Грюнберг и Давыдова (1982:		Grünberg and Davydova (1982:
+3e335385-003d-4762-a355-7fbfa469305d	238) вместо ə (звука переднего ряда нижнего подъема) в этой системе помещают е (переднего ряда среднего подъема).		238) place e (a mid front sound) in this system instead of ə (a low front sound).
+0002be38-94df-4ed6-8712-b7c2eff4dcee	По их мнению, е в джуури соответствует ə в татском: дж. ser ‘голова’ – sär, merd ‘человек, мужчина’ – märd, ez ‘из’ – äz, также дж. bebe ‘отец’ и др.		In their opinion, e in Juhuri corresponds to ə in Tat: Juh. ser ‘head’ – sär, merd ‘person, man’ – märd, ez ‘from’ – äz, as well as Juh. bebe ‘father’, etc.
+1ddbb907-fb53-4f92-a5db-8425797d509f	Однако составители словарей – носители языка (Нафталиев 2016:		However, the dictionary compilers who are native speakers (Naftaliyev 2016:
+d6d75a77-c9dc-4550-9606-85249b450900	15, Агарунов 2010:		15, Agarunov 2010:
+3bfd9f4e-e6d4-484e-b604-75dd7976752c	14, ср. также Миллер 1932:		14, cf. also Miller 1932:
+ce584dc8-a9bd-477f-a872-0b6db09ef3ed	282) относят этот гласный к нижнему подъему и вводят дополнительную графему для более закрытого звука в заимствованиях из русского языка (ə используется там, где в татском у Грюнберга ä:		282) classify this vowel as low and introduce an additional grapheme for a more close sound in loanwords from Russian (ə is used where Grünberg uses ä in Tat:
+1bb96530-3e57-401a-b604-37e7003a5bea	sər, mərd, əz, bəbə; е используется в словах типа defekt ‘дефект’, ekran ‘экран’).		sər, mərd, əz, bəbə; e is used in words like defekt ‘defect’, ekran ‘screen’).
+919b877b-5dd3-452b-a040-130e94dc6102	Позиционные варианты реализации всех фонем детально описывает Вс.		Positional variants of the realization of all phonemes are described in detail by Vs.
+fcb12749-2113-4fea-9de9-bd544e1317e2	Миллер (Миллер 1900:		Miller (Miller 1900:
+e42e17a7-bd69-4aba-86b2-14d070b08250	1-8).		1-8).
+7dd82ebd-7f20-45a5-979e-5279e849d79a	На выбор аллофона большое влияние оказывают соседствующие согласные и гласные других слогов слова, а ударность/безударность слога не имеет большого значения.		The choice of allophone is greatly influenced by neighboring consonants and vowels of other syllables in the word, while the stress or lack of stress of the syllable is not of great significance.
+48fc5cd5-c6da-4bfb-9cc0-496aee4a685a	Система гласных фонем, по-видимому, не различается по диалектам, но аллофоны и правила их распределения могут различаться.		The system of vowel phonemes apparently does not vary across dialects, but allophones and the rules for their distribution may differ.
+02f53821-9d3f-42d0-a309-99e009dc3d3c	В татском языке, судя по описаниям, в разных диалектах существуют различные системы фонем.		In Tat, judging by the descriptions, different dialects have different phoneme systems.
+5080b2ed-8b85-4e52-a357-30eb3b4ca28b	Согласно В. С. Соколовой, в системе фонем изученных ею диалектов имеется три нисходящих дифтонга ei̯, оu̯, өу.		According to V. S. Sokolova, the phoneme system of the dialects she studied includes three falling diphthongs: ei̯, оu̯, өу.
+b736bed8-4862-4b6f-a750-02281a450b30	Идет процесс развития из этих дифтонгов гласных среднего подъема е, о, ө, которые на момент сбора материала (1947 – 1948 гг.) не имели статуса фонем.		There is an ongoing process of development from these diphthongs into mid vowels e, o, ө, which did not have phonemic status at the time the material was collected (1947–1948).
+c5fd123c-9c44-4e94-8c95-1754d260f14f	Грюнберг также не включает эти гласные в число фонем татского языка.		Grünberg also does not include these vowels among the phonemes of the Tat language.
+9b19ea2a-2377-438d-8e26-d1fbb28206d6	По мнению этих авторов, вокализм татского языка включает 8 фонем:		According to these authors, the vowel system of the Tat language includes 8 phonemes:
+281fe9db-2554-4be8-a8fb-7b03b583137e	i, y, u, ä, a, ei̯, оu̯, өу (в отличие от джуури, нет фонемы о и есть три дифтонга).		i, y, u, ä, a, ei̯, оu̯, өу (unlike Juhuri, there is no phoneme o and there are three diphthongs).
+defbc531-2c4c-4d8f-9d08-b8d6e91b7d94	Гаджиев полагает, что формирование фонем среднего подъема в татском завершилось (Hacıyev 2009:		Hajiyev believes that the formation of mid phonemes in Tat has been completed (Hacıyev 2009:
+299baab7-3dbe-4052-914f-53dad2eb148e	28-38).		28-38).
+e051b891-b1e8-4f68-bf58-4001d068277b	Дифференциальные признаки гласных, по мнению этих авторов, те же, что в джуури: ряд, подъем и огубленность.		According to these authors, the distinctive features of vowels are the same as in Juhuri: backness, height, and roundedness.
+5a901c10-69f8-4274-a12b-dc876e98de23	В ширванском диалекте татского языка Сулейманов описывает систему гласных, в которой насчитывается 13 фонем, нет дифтонгов, а к дифференциальным признакам гласных среднего и нижнего подъема добавляется долгота/краткость (Suleymanov 2020:		In the Shirvan dialect of Tat, Suleymanov describes a vowel system that counts 13 phonemes, has no diphthongs, and adds length/shortness to the distinctive features of mid and low vowels (Suleymanov 2020:
+c536203e-d94f-40f3-b4b1-d0c78d9f9b83	65).		65).
+e7894776-f244-40be-b0a7-a7fd13fded7d	Под влиянием азербайджанского языка в татском и джуури развивается уподобление гласных, однако, в отличие от азербайджанского, ни в том, ни в другом языке оно не достигает статуса обязательно применяемого правила.		Under the influence of the Azerbaijani language, vowel assimilation develops in Tat and Juhuri; however, unlike in Azerbaijani, it does not reach the status of an obligatorily applied rule in either language.
+6898559e-52ee-43be-bb71-8365d0fb92ed	Контактное воздействие сингармонизма приводит не только к тому, что в корневых морфемах оказываются не те гласные, которых следовало бы ожидать этимологически (много таких примеров приводит Вс.		Contact influence of vowel harmony leads not only to the fact that root morphemes contain vowels other than those expected etymologically (many such examples are provided by Vs.
+182a7da7-33bc-47fd-be62-3c49f35375c1	Миллер:		Miller:
+bbb95602-a4f0-4615-a3d2-3fde88ee6712	Миллер 1900:		Miller 1900:
+e59d8eb8-57ee-49fb-b48f-4ac50d731386	9-11 джуури, Миллер 1907:		9-11 Juhuri, Miller 1907:
+4e79fdad-a4f3-469d-89f5-ca041434a799	11-13 татский), но и к «неустойчивости» гласных в синхронии.		"11-13 Tat), but also to the ""instability"" of vowels in synchrony."
+34900cb0-329f-49f6-bea6-afda0362f600	В джуури во многих корнях практически в любой позиции гласные i и y взаимозаменяемы: pyryş ~ piriş ‘свет’, gyrdə ~ girdə ‘держать’, şəkyl ~ şəkil ‘рисунок’.		In Juhuri, in many roots in virtually any position, the vowels i and y are interchangeable: pyryş ~ piriş ‘light’, gyrdə ~ girdə ‘to hold’, şəkyl ~ şəkil ‘drawing’.
+7b211c90-7dc1-40bf-8833-f9f2b37d3cff	В татском, в отличие от джуури, это варьирование подразумевает редукцию, возможно только в безударных слогах и включает в себя также фонему u (Грюнберг, Давыдова 1982:		In Tat, unlike Juhuri, this variation implies reduction, is possible only in unstressed syllables, and also includes the phoneme u (Grünberg, Davydova 1982:
+78a0dfd9-b3b9-4b4b-a51e-24404896c7f1	236, умуруз ~ iмуруз ‘сегодня’ Миллер 1907:		236, umuruz ~ imuruz ‘today’ Miller 1907:
+f48e74c2-26bc-4965-8948-5720bf717edf	12).		12).
+13de7889-4159-4e68-8208-dca426feb3f9	Из аффиксов обязательно уподобляются последнему слогу основы глагольные окончания 1Sg и 3Pl:		Among affixes, the verbal endings 1Sg and 3Pl are obligatorily assimilated to the last syllable of the stem:
+59a38d41-a8be-4cf5-8bfd-e94ba5f84106	-ym и -yt для гласных переднего ряда (soxdən-ym ‘делаю’, soxdən-yt ‘делают’), -um и -ut для гласных заднего ряда (soxd-um ‘я (с)делал’, soxd-ut ‘они (с)делали’).		-ym and -yt for front vowels (soxdən-ym ‘I do/make’, soxdən-yt ‘they do/make’), -um and -ut for back vowels (soxd-um ‘I did/made’, soxd-ut ‘they did/made’).
+bcf154e1-e83c-484b-be58-620827ca2c2c	То же правило действует в татском, только окончание 3Pl здесь имеет вид -ynd/-und (см. раздел «Система глагола»).		"The same rule applies in Tat, except that the 3Pl ending here has the form -ynd/-und (see the ""Verb system"" section)."
+7a11cfa5-7850-4f68-90dc-74e575e32afa	В то же время глагольные аффиксы 1 лица – сильная позиция для i и y:		At the same time, 1st person verbal affixes are a strong position for i and y:
+d0909200-a863-4dbc-aa3e-c065db724360	-ym в 1Sg и -im в 1Pl не смешиваются.		-ym in 1Sg and -im in 1Pl do not merge.
+597b8c66-d58f-49ac-89db-26985459b705	Таким образом, в разных диалектах татского языка системы гласных фонем различаются, в них имеются дифтонги, дрейфующие в направлении монофтонгов, и пары, противопоставленные по долготе/краткости.		Thus, in different dialects of the Tat language, vowel phoneme systems differ; they contain diphthongs drifting toward monophthongs and pairs contrasted by length/shortness.
+7f663689-5a7f-41fd-9abe-51f2d555bf3b	В отличие от татского, в разных диалектах джуури наблюдается единая шестичленная система гласных, противопоставленных по двум рядам, трем степеням подъема и огубленности/неогубленности.		Unlike Tat, different dialects of Juhuri display a uniform six-member vowel system, contrasted across two series, three degrees of height, and roundedness/unroundedness.
+f44f7542-e015-499b-9fea-a15c3e903cc2	На вокализм обоих языков существенно и сходным образом повлиял сингармонизм контактирующего азербайджанского языка.		The vocalism of both languages was significantly and similarly influenced by the vowel harmony of the contacting Azerbaijani language.
+f492c7bf-0820-4175-b767-6b7d9ad90a28	В диахронии влияние сингармонизма привело к изменению гласных многих корневых морфем.		Diachronically, the influence of vowel harmony led to changes in the vowels of many root morphemes.
+e3099c12-876d-468d-8595-691541cbeb52	В синхронии гласные ряда глагольных аффиксов уподобляются гласным соседних слогов основы (в обоих языках одинаково), а процессы уподобления гласных в корневых морфемах протекают по-разному: в джуури они затрагивают разные гласные в ударных и безударных слогах, а в татском происходят только без ударения и затрагивают все гласные верхнего подъема.		Synchronically, the vowels of a number of verbal affixes assimilate to the vowels of adjacent stem syllables (identically in both languages), while vowel assimilation processes in root morphemes proceed differently: in Juhuri they affect different vowels in stressed and unstressed syllables, while in Tat they occur only without stress and affect all high vowels.
+c97543aa-6ebb-4529-a8d2-885aeac7d257	Консонантизм		Consonantism
+3fb1b654-6207-4f8e-b6a1-41ee71291362	В консонантизме татского и джуури пока не выявлено различий.		No differences have yet been identified in the consonantism of Tat and Juhuri.
+0d9b7f55-5ac0-484a-9050-57370313d407	Единственное, о чем можно упомянуть, - это отсутствие в татском эмфатических t и d. В джуури эмфатические t и d описывают В. Ф.		The only thing that can be mentioned is the absence of emphatic t and d in Tat. In Juhuri, emphatic t and d are described by V. F.
+c19152f4-065f-4e74-bb4c-b384c6dfe561	Миллер, отмечая, что они встречаются редко (Миллер 1900:		Miller, noting that they occur rarely (Miller 1900:
+02853de4-04b2-48af-8e4c-c83c002251f5	18-19), и Р.		18-19), and R.
+e3214af4-91ce-4873-adbe-1f114f1dbf02	О.		O.
+bd9e9d28-e040-4a58-9b5a-3fd8305b3394	Шор (Шор :		Shor (Shor :
+de73e65d-4bce-4e7d-a2b7-d878b3b44961	135-136), а Б. В. Миллер фиксирует только эмфатическое d (Миллер 1932:		135-136), while B. V. Miller records only emphatic d (Miller 1932:
+fb5a4f66-afc5-4545-a509-8035d9233df3	270).		270).
+bd40114c-dea0-4418-9e49-f3a8c2e7b2c1	Сегодня эмфатическое t можно услышать в аудиокнигах, начитанных для портала СТМЭГИ, в исполнении некоторых чтецов (Роза Мардахаева, Батцион Абрамова) как вариант реализации обычного t.		Today, emphatic t can be heard in audiobooks recorded for the STMEGI portal, performed by some readers (Roza Mardakhaeva, Batsion Abramova) as a variant realization of regular t.
+086f0f8d-117f-4092-97ff-f893187ecea2	Поскольку и зафиксированные В. Ф.		Since even the emphatic t and d recorded by V. F.
+c9df780b-14c0-46d8-ad6d-ab786e16687c	Миллером эмфатические t и d не обусловлены ни этимологически, ни позиционно, видимо обычные и эмфатические согласные в джуури как раньше, так и сейчас находятся в свободном варьировании, причем, по крайней мере сейчас, имеются не у всех носителей.		Miller are conditioned neither etymologically nor positionally, regular and emphatic consonants in Juhuri, both in the past and present, are apparently in free variation, and, at least now, are not present in all speakers.
+ebf5aac3-d06d-41e1-9cc6-96ea6ed3e2bd	Именная система		Nominal system
+62c3b08c-bbec-460a-825d-9323e60127cb	В именной системе обоих языков имеются следующие показатели:		The nominal system of both languages has the following markers:
+36d9bdad-5adc-46af-9b3a-2677cbc42f33	-ho/-ha и -un – множественное число,		-ho/-ha and -un – plural,
+2ff0d62b-6a3b-4345-85f5-03f33c2a5dab	-rə (после гласной) / -ə (после согласной) – примерно соответствует дативу и оформляет референциальный прямой объект,		-rə (after a vowel) / -ə (after a consonant) – roughly corresponds to the dative and marks the referential direct object,
+5baaeb19-0c87-42d4-82f0-af2f4fafa5fd	дж.		Juh.
+120879d2-dede-4435-87e5-6cf7d7945459	-rəvoz (после гласной) / -əvoz (после согласной), тат.		-rəvoz (after a vowel) / -əvoz (after a consonant), Tat.
+fdcc43f4-70d1-4749-acf0-944504b9628a	-rəz, -rəzə, -rəvəz / -əz, -əzə, -əvəz  – имеет комитативное или инструментальное значение,		-rəz, -rəzə, -rəvəz / -əz, -əzə, -əvəz – has a comitative or instrumental meaning,
+c3488f83-dd2d-48c1-961f-b4c4e3d740ae	-i – несколько омонимичных аффиксов, в частности маркеры транспозиции (смены частеречной принадлежности): nəznik ‘близкий’ – nəznik-i ‘близость’, pəşm – pəşm-i ‘шерстяной’,		-i – several homonymous affixes, in particular transposition markers (change of part of speech): nəznik 'near' – nəznik-i 'closeness', pəşm – pəşm-i 'woolen',
+236ebe2a-04e8-43e8-8f58-b6022c6bc9ef	-j – показатель изафета: маркирует главное слово (определяемое) именной атрибутивной конструкции.		-j – izafet indicator: marks the head word (defined element) of a nominal attributive construction.
+8667f135-eb3f-420a-a11d-3fc9788c4d8b	Не присоединяется к словам с исходом на согласный или i.		Does not attach to words ending in a consonant or i.
+abc785f4-6db4-409f-99cf-bbf1025177be	Множественное число.		Plural.
+2859cddd-a1ed-466f-b933-0e6bab59daa8	В татском языке при помощи аффикса -un образуют множественное число одушевленные существительные (названия родственников, домашних животных, отглагольные сущ. со значением деятеля и др., а также некоторые природные явления, см. Suleymanov 2020:		In Tat, animate nouns form the plural with the suffix -un (kinship terms, domestic animals, deverbal nouns with agentive meaning, etc., as well as some natural phenomena, see Suleymanov 2020:
+01c8fc8e-4de5-44f2-ba7a-5ff945fc9a28	96, Hacıyev 2009:		96, Hacıyev 2009:
+a8050b6f-0913-45fb-b194-b0e4b5df8f19	147):		147):
+a477fb13-b5f9-4154-8e7b-1f20726d6eff	kük-un ‘сыновья’, pišig-un ‘кошки’, dunustagor-un ‘знатоки’.		kük-un ‘sons’, pišig-un ‘cats’, dunustagor-un ‘experts’.
+76db82d9-2a97-4ac9-a64e-916d0ee875c1	В джуури этот аффикс вышел из употребления, все существительные образуют мн.ч. с -ho:		In Judeo-Tat, this affix has fallen out of use; all nouns form the plural with -ho:
+43f500eb-65db-4b9e-9244-d552455a3232	kuk-ho ‘сыновья’, pišig-ho ‘кошки’, nyvysdəgor-ho ‘писатели’.		kuk-ho ‘sons’, pišig-ho ‘cats’, nyvysdəgor-ho ‘writers’.
+59473156-5c54-4e41-85c0-8190b570d17e	Варианты с -un возможны только для некоторых названий родственников (biror-un ‘братья’ наряду с biror-ho) и воспринимаются как архаичные.		Variants with -un are possible only for certain kinship terms (biror-un ‘brothers’ alongside biror-ho) and are perceived as archaic.
+4a461d5d-3e8d-44d7-a68e-931e123681e9	Квазипадежные показатели -(r)ə и -(r)əvoz.		Quasi-case markers -(r)ə and -(r)əvoz.
+26cc7161-9285-4f1f-865e-3e1e99a601ad	-(r)ə оформляет референциальный прямой объект, а также маркирует роли реципиента, экспериенцера и другие прототипические для датива.		-(r)ə marks the referential direct object, as well as the roles of recipient, experiencer, and others prototypical for the dative.
+4d113e08-139c-4b85-89b3-2349216ad130	Примеры: дж.		Examples: Jud.
+c00146f6-8d04-42aa-a72b-4657c0c0160c	sər ‘голова’ – sər-ə dəşəndə ə zir qənət ‘пряча голову под крыло’ (реф. прямой объект), xudo ‘бог’ – xudo-rə şykyr ‘благодарение богу’ (косвенный объект – адресат), тат. dou̯şan ‘заяц’ – dou̯şan-ə gyftim ‘мы поймали зайца’ (реф. прямой объект), in səg-ə kisnəjy букв.		sər ‘head’ – sər-ə dəşəndə ə zir qənət ‘hiding head under a wing’ (ref. direct object), xudo ‘God’ – xudo-rə şykyr ‘thanks to God’ (indirect object – addressee), Tat. dou̯şan ‘hare’ – dou̯şan-ə gyftim ‘we caught a hare’ (ref. direct object), in səg-ə kisnəjy lit.
+5c2047e1-eb2f-4df0-9365-dc2dbfb4a809	‘этой собаке голодно’ (логическое подлежащее – экспериенцер).		‘this dog is hungry’ (logical subject – experiencer).
+d95db9b8-d863-4546-8ac7-5a96f8769ed6	В джуури -(r)ə широко используется для оформления косвенного объекта (Authier 2012:		In Judeo-Tat, -(r)ə is widely used to mark the indirect object (Authier 2012:
+72eca178-0247-4746-8b18-8e41797a656d	47-49), тогда как в татском этот показатель оформляет логическое подлежащее и используется в атрибутивной конструкции (см. ниже), а косвенный объект требует предлога: тат.		47-49), whereas in Tat this marker marks the logical subject and is used in an attributive construction (see below), while an indirect object requires a preposition: Tat.
+01b31523-9664-4eb4-80f2-4e881ca412dd	pijər bəxşi bə kyk tufanqa ‘отец подарил сыну ружье’, bə - предлог (Миллер 1907:		pijər bəxşi bə kyk tufanqa ‘the father gave a gun to his son’, bə - preposition (Miller 1907:
+a2379dca-fd80-4357-8018-abbf34113374	29, Грюнберг 1963:		29, Grünberg 1963:
+4fc6cc18-192b-48bc-abdb-9308c89acf54	22-25, 28, Suleymanov 2020:		22-25, 28, Suleymanov 2020:
+bf4cb5d2-a78c-4f71-9807-a17bd98b7d88	96-97).		96-97).
+c18b2926-0192-4712-b5e5-9277dfc38fc5	Функции и употребление показателя -(r)əvoz в джуури и его аналогов в татском, по-видимому, не различаются: он выражает инструментальное или комитативное значение и требует предлога.		The functions and use of the marker -(r)əvoz in Juhuri and its counterparts in Tat apparently do not differ: it expresses an instrumental or comitative meaning and requires a preposition.
+49289d3c-0986-4932-ac79-dcd530d59e86	Примеры: дж.		Examples: Juh.
+03ff7b52-0947-4c51-b609-bae692900990	ə kələ cetini-rəvoz ‘с большим трудом’, тат. kufind bə cuv-əz ‘бейте палкой’ (Грюнберг, Давыдова 1982:		ə kələ cetini-rəvoz ‘with great difficulty’, Tat. kufind bə cuv-əz ‘beat with a stick’ (Grünberg, Davydova 1982:
+02f26eff-a377-4c9f-891d-5295c8ea1d05	250, Hacıyev 2009:		250, Hacıyev 2009:
+31ccab36-14f1-4abd-97c2-5d1f32922045	158-159).		158-159).
+9e74d92f-995e-439a-a980-c45330951c6a	Аффиксы -i и -j используются в атрибутивных конструкциях.		The affixes -i and -j are used in attributive constructions.
+ce610221-158d-44a6-8508-9351491b1a97	Семантика атрибутивных конструкций в джуури подробно описана Е.		The semantics of attributive constructions in Juhuri is described in detail by E.
+f469ff0f-e2ee-4ced-9243-ac5d7f3b5e06	М.		M.
+22435e78-9852-4ac8-bcdd-f443f1607a24	Назаровой (Назарова 2002:		Nazarova (Nazarova 2002:
+25bc44e1-c748-4dad-8c6c-fece1f00619c	186 и след.), а с формальной точки зрения встречающиеся в татском и джуури атрибутивные конструкции можно разделить на несколько типов (табл.		186 ff.), and from a formal point of view, the attributive constructions occurring in Tat and Juhuri can be divided into several types (Table
+2f438ed1-d6fb-4c83-80f9-aabaa281edbd	1)		1)
+7fc7fea0-1d86-4384-8c34-cbb4674d20e3	порядок компонентов		order of components
+7c68007d-3a4f-4d7a-b27b-a4efc4df1f84	маркер		marker
+8283713a-079d-4076-b102-9e7c2f4db619	пример		example
+ca3b93a6-e3fc-4d0a-a0d4-8f36860766bf	главн		head
+67b2a6ce-a3ff-4475-b639-ff130a13d30e	завис		dependent
+49a1268e-006d-47ee-a08b-afb0b79f37b1	предлог		preposition
+69d77cf2-0779-4b1e-bbd9-fe43eff241f2	главн-завис		head-dependent
+c47f3918-0052-414c-91cb-cb8e38e94883	-		-
+9810fcf1-0ba0-416c-b78c-6727044cca76	-		-
+def2a284-d5df-43f9-897f-792f999ed388	ən		ən
+54e2371c-d89e-43b1-8624-39dcb5797d83	тат. xər ən qunşi ‘осёл соседа’, дж. sifət ən zən ‘лицо женщины’		Tat. xər ən qunşi ‘neighbor's donkey’, Juh. sifət ən zən ‘woman's face’
+56ab45b2-fa21-4e1d-a519-dae0b3ea8404	главн-завис		head-dep
+b702ec57-d021-4a25-9188-03730c0325ce	-j/ -		-j/ -
+d5a2d8cd-7ccb-43a3-ae2a-ed3a389dd5f3	-		-
+ff0406f6-936c-46a8-b977-4fb2062a329d	-		-
+ce9e26a4-9246-4aa8-8a96-47b843d7dd58	тат. sula-j siçan ‘нора мыши’, дж. çərgə-j Vs.		Tat. sula-j siçan ‘mouse hole’, Juh. çərgə-j Vs.
+3d819597-204a-422e-9e98-5dcbb3eea25d	Miller ‘система Вс.		Miller ‘system of Vs.
+35ce1ebe-5e6b-4a92-8508-0bfed851d459	Миллера’		Miller’
+a4847386-4981-4546-9358-496b7a561a7e	главн-завис		head-dep
+516d3d57-fb7c-472f-9619-7dea8392d27f	-		-
+96fdaa2a-8282-432d-816c-d15d92e9bfec	-i		-i
+83bc71e7-9056-495f-9971-263e1e4788af	-		-
+659d573b-8a19-457d-b1c4-abfd7dc530bc	тат. xunə bəbə-i ‘дом отца’, дж. gofho azad-i ‘слова свободы’		Tat. xunə bəbə-i ‘father's house’, Juh. gofho azad-i ‘words of freedom’
+b789b7e2-b4ec-44b7-b0a9-3bd946012150	завис-главн		dep-head
+4d2dcce9-8931-496b-ace9-4d84e954440e	Poss		Poss
+f1422e9a-4336-4d26-a902-fcb1e2ab8543	-(r)ə		-(r)ə
+d9fbe55a-edb8-486f-8fa6-2c4724eb6dd4	-		-
+7b61cc03-7640-473d-aad0-3cb6d54ed4a6	тат. i duşmə-rə ou̯-i ‘вода этого источника’		Tat. i duşmə-rə ou̯-i ‘water of this spring’
+dd9a83c7-ab06-41c5-ae0f-c9d062dd5db9	Табл.		Table
+b29b89fc-5501-4b14-be95-0d0d2eee7e5d	1.		1.
+51153a9d-9d38-48a8-9980-7371c7568b27	Типы атрибутивных конструкций		Types of attributive constructions
+ab20865b-bcaf-4be4-a83e-1765549a272a	Первые два типа – конструкция с предлогом ən и конструкция с маркированием главного слова – продуктивны в обоих языках.		The first two types—the construction with the preposition ən and the construction with head marking—are productive in both languages.
+8c85475a-9db1-47c5-9649-ed84fdd80f9c	Маркер главного слова -j присоединяется только к словам с исходом на гласные кроме -i.		The head marker -j is attached only to words ending in vowels except -i.
+9ec4477e-1a36-4457-a8a0-31746a92a691	Если главное слово заканчивается на согласный или -i, этот маркер опускается: дж. num xudo ‘имя бога’, тат. divor xunə ‘стена дома’.		If the head word ends in a consonant or -i, this marker is omitted: Jud. num xudo ‘name of God’, Tat divor xunə ‘wall of the house’.
+5a29542b-5b2f-4504-a96d-34a711b7c519	Вероятно, из-за обилия таких немаркированных конструкций иногда утверждают, что конструкция с маркированным главным словом в джуури утрачивается (Назарова 2002:		Probably due to the abundance of such unmarked constructions, it is sometimes claimed that the head-marked construction is being lost in Juhuri (Nazarova 2002:
+c1ad0d31-89a3-4023-a2b1-14f195fe5940	192).		192).
+eb07703a-f8d2-4156-a563-f95736a87b8f	Но если главное слово стоит во множественном числе, т.е. заканчивается на гласную (-ho), то в современных текстах оно обязательно маркируется, как и все прочие сущ. с гласным исходом, поэтому я не думаю, что эта конструкция утрачивается.		But if the head word is in the plural, i.e., ends in a vowel (-ho), then in modern texts it is obligatorily marked, as are all other nouns with a final vowel, so I do not think that this construction is being lost.
+8e2c2605-8005-43d8-96e8-07fc71b92510	Более того, маркирование главного слова распространяется и на другие конструкции в джуури, см. ниже.		Moreover, head marking spreads to other constructions in Juhuri as well, see below.
+2f9fc3f2-6c02-4ad3-9994-0f6e2829916a	Конструкция третьего типа (с маркированным зависимым словом на -i) тоже очень продуктивна в джуури.		The third type of construction (with a dependent word marked with -i) is also very productive in Juhuri.
+2d4b8c3e-354b-4a04-a772-c2cd7198ca49	В татском эта конструкция распространена гораздо уже.		In Tat, this construction is much less widespread.
+7d009f6a-85fb-43ee-ac13-a2bb589ef880	Миллер упоминает ее, иллюстрируя лишь примерами притяжательной конструкции с названиями родственников (Миллер 1907:		Miller mentions it, illustrating it only with examples of possessive constructions with kinship terms (Miller 1907:
+71d0292c-18ee-4e57-b8a7-ca9d369fa4ff	29), Грюнберг вообще не упоминает, Сулейманов пишет, что в ширванском татском форма на -i употребляется очень ограниченно (Suleymanov 2020:		29), Grünberg does not mention it at all, Suleymanov writes that in Shirvan Tat the form in -i is used very restrictively (Suleymanov 2020:
+cd96da87-d33c-496d-9197-2e3d125bfc8b	110).		110).
+54f877bd-f94c-4cee-a7e9-c6947f74de29	Те значения, которые в джуури передаются конструкцией с формой на -i, в татском выражаются при помощи относительного прилагательного с суффиксом -in:		The meanings that in Juhuri are expressed by the construction with the form in -i are expressed in Tat using a relative adjective with the suffix -in:
+069216d3-b1ff-46f1-83e9-65af1069dd94	pəş ‘шерсть’ – pəş-in ‘шерстяной’, uhun ‘железо’ – uhun-in ‘железный’ (Грюнберг 1963:		pəş ‘wool’ – pəş-in ‘woolen’, uhun ‘iron’ – uhun-in ‘iron’ (Grünberg 1963:
+d611358d-0330-4645-a9ca-0fed60b04f06	36-37), vərf ‘снег’ – vərf-in ‘снежный’, xun ‘кровь’ – xun-in ‘кровавый, кровяной’, zihr ‘сила’ – zihr-in ‘сильный’ (Suleymanov 2020:		36-37), vərf ‘snow’ – vərf-in ‘snowy’, xun ‘blood’ – xun-in ‘bloody’, zihr ‘strength’ – zihr-in ‘strong’ (Suleymanov 2020:
+f33ec922-55d1-4c0b-9880-45fb2092cb87	109).		109).
+b08beb5b-5ad2-4cbf-8e0b-b6cfc8fc4571	Эти относительные прилагательные имеют атрибутивную форму и употребляются препозитивно, т.е. не отличаются от других прилагательных:		These relative adjectives have an attributive form and are used prepositively, i.e. do not differ from other adjectives:
+f933714b-25b7-4d66-9279-b01f970de4b0	rəng ‘цвет’ – rəng-n-ə hilou̯ ‘цветной палас’, -ə показатель атрибутивной формы, -i- в суффиксе в этой форме выпадает (Грюнберг 1963:		rəng ‘color’ – rəng-n-ə hilou̯ ‘colored rug’, -ə is an attributive form marker, -i- in the suffix drops in this form (Grünberg 1963:
+0ceb8c91-bbf3-42a1-9bb9-2e918864749f	37, пример со стр. 174).		37, example from p. 174).
+83a31d5c-5289-4758-9cfe-24e87e5d4ad0	В джуури форма на -i употребляется постпозитивно и не имеет атрибутивной формы: hovun ‘железо’ – rəħ hovun-i ‘железная дорога’, vərf ‘снег’ –   doq vərf-i ‘снежная гора’, zimistu ‘зима’ – ovoduni zimistu-ji ‘зимняя одежда’ (-i переходит в -ji после гласной).		In Juhuri, the form in -i is used postpositively and does not have an attributive form: hovun ‘iron’ – rəħ hovun-i ‘railroad’, vərf ‘snow’ – doq vərf-i ‘snowy mountain’, zimistu ‘winter’ – ovoduni zimistu-ji ‘winter clothing’ (-i changes to -ji after a vowel).
+7f13af3b-c7e9-451b-8f38-2a3ee4bcf5b3	В джуури вторая и третья конструкции могут объединяться, и оба слова оказываются маркированы: cəkmə-ho-j mərd-i ‘мужские сапоги’, loko-j xun-i ‘кровавое пятно’, vişə-j palud-i ‘дубовый лес’.		In Juhuri, the second and third constructions can combine, and both words end up marked: cəkmə-ho-j mərd-i ‘men's boots’, loko-j xun-i ‘bloodstain’, vişə-j palud-i ‘oak forest’.
+814c5228-cd3f-497e-9bdd-d8acdcbe3fe4	Маркирование главного слова встречается и в первой конструкции, с предлогом:		Marking of the head word is also found in the first construction, with a preposition:
+8d15c254-6644-46ed-a757-ae795ae8e273	gufdirə-ho-j ən Şəlmu kuk Dovid ‘притчи Соломона, сына Давида’.		gufdirə-ho-j ən Şəlmu kuk Dovid ‘proverbs of Solomon, son of David’.
+c66eae7e-dc32-4b85-8514-73cccbfa66ba	Конструкция последнего типа, с препозицией главного слова в форме на -(r)ə, отсутствует в джуури.		The construction of the latter type, with anteposition of the head word in the form in -(r)ə, is absent in Juhuri.
+dfdd355b-6bf4-443e-88bf-55bfcaee863a	Главное слово в ней маркируется притяжательным местоимением 3Sg или 3Pl, относящимся к зависимому слову qunşi-mun-ə səg-i ‘собака нашего соседа’, ԧəjəlun-ə çavabhə-jşun ‘ответы детей’ (примеры из Грюнберг 1963).		The head word in it is marked by a 3Sg or 3Pl possessive pronoun referring to the dependent word: qunşi-mun-ə səg-i ‘our neighbor's dog’, ԧəjəlun-ə çavabhə-jşun ‘the children's answers’ (examples from Grünberg 1963).
+c73ba9b3-d1fd-4a9f-b1b4-e995a98d2457	В татском эта конструкция развивается под воздействием азербайджанского языка, в котором, как и в других тюркских языках, распространено маркирование главного слова атрибутивной конструкции притяжательным местоимением 3 лица.		In Tat, this construction develops under the influence of the Azerbaijani language, in which, as in other Turkic languages, marking the head word of an attributive construction with a 3rd person possessive pronoun is widespread.
+62ddcb16-6e9e-46d2-9b10-6a682a3a1218	Основные различия между татским и джуури в именной системе:		The main differences between Tat and Juhuri in the nominal system:
+6d3856c5-7208-422c-ad5b-e55ade13bb6a	два продуктивных маркера множественного числа в татском (-ha, -un) и только первый из них в джуури (-ho)		two productive plural markers in Tat (-ha, -un) and only the first of them in Juhuri (-ho)
+2c5e880e-6c78-4e90-9542-7018f4bc51cb	выражение косвенного объекта формой на -(r)ə без предлога в джуури и с предлогом в татском		expression of the indirect object by a form in -(r)ə without a preposition in Juhuri and with a preposition in Tat
+8e1101f4-1fc1-449d-bf2b-2c9cfdb26a96	фонетическое разнообразие маркеров инструментально-комитативной формы в татском -(r)əz, -(r)əzə, -(r)əvəz		phonetic diversity of the markers of the instrumental-comitative form in Tat: -(r)əz, -(r)əzə, -(r)əvəz
+e76b5548-9eda-40fc-ae4f-704e3f0fd1d3	в джуури широко используется атрибутивная конструкция на -i (в татском встречается редко)		in Juhuri, the attributive construction in -i is widely used (in Tat it occurs rarely)
+a44cf25d-d70e-4b28-9ffc-625190edae88	в джуури отсутствует атрибутивная конструкция с маркированием главного слова притяжательным местоимением 3 лица (в татском встречается часто)		in Juhuri, the attributive construction with marking of the head word by a 3rd person possessive pronoun is absent (in Tat it occurs frequently)
+fc2eee50-8bd5-4577-a986-a8458adf10e5	Система глагола		The verb system
+10d04a3f-fff8-40aa-9a89-84b30e3658e6	В глагольной системе татский и джуури насчитывают наибольшее число различий, хотя основные характеристики этой системы в обоих языках одинаковы и представляют собой дальнейшее развитие среднеперсидского состояния:		In the verb system, Tat and Juhuri account for the largest number of differences, although the main characteristics of this system in both languages are identical and represent a further development of the Middle Persian state:
+4b953d46-2d05-4b17-a4d1-125b93ce4f43	глагольная система строится на противопоставлении двух основ		the verbal system is built on the opposition of two stems
+3c6c38eb-fa9f-4f22-8473-c87c72263bbe	морфологическое выражение модальных значений имеют только императив, конъюнктив и (в джуури) оптатив.		only the imperative, subjunctive, and (in Juhuri) optative have morphological expression of modal meanings.
+5ed12883-d865-46df-a4ed-cf667d02fa4b	Остальные глагольные формы могут выражать как значения индикатива, так и различные ирреальные значения		The remaining verb forms can express both indicative meanings and various irrealis meanings
+f288ab68-6129-479e-b334-021393067897	многие формы индикатива восходят к аналитическим формам вида «отглагольное имя + личная форма связки или глагола ‘быть’»		"many indicative forms go back to analytical forms of the type ""deverbal noun + finite form of the copula or the verb 'be'"""
+ee1d1187-be2b-48bf-8b9a-4dc0b547f0a0	широко используются различные отглагольные имена для выражения вторичных сказуемых		various deverbal nouns are widely used to express secondary predicates
+6b883f9f-b323-4b04-9c0c-81921d9876cf	противопоставлены два залога: актив и пассив, образуемый аналитически (Ефимов и др.		two voices are contrasted: active and passive, formed analytically (Efimov et al.
+5aa14c2d-225a-484b-9390-36608dccc2d9	1975:		1975:
+9e92fe83-2120-49ac-862c-3d8528f1d1a6	357, 386 и след., 389).		357, 386 ff., 389).
+418a2ef1-1275-417e-bf23-48f1eab40be3	джуури		Juhuri
+a952ec9c-ed03-4abc-90e0-b22b0d0559ed	татский		Tat
+604a1647-7821-415a-adab-03ad0934cd98	Показатель инфинитива		Infinitive marker
+bbdc2e01-f2f2-4040-b904-d6b255306538	-də, -rə		-də, -rə
+f790845f-5aa2-4e5c-83e0-2cffa3786aff	nyşdə ‘садиться’, tərsirə ‘бояться’		nyşdə ‘to sit down’, tərsirə ‘to be afraid’
+b28e61e7-fb03-46ab-a41f-212cce958c93	-dən, -rən		-dən, -rən
+72ad09f3-3839-4ee5-9af9-35b76f6d6d1c	nyşdən[[1:X:x]], tərsirən		nyşdən[[1:X:x]], tərsirən
+222da539-4982-430e-9cf4-69fcfb20468c	[[1:X:x]] В этом разделе примеры из татского языка преимущественно приводятся из (Грюнберг 1963).		[[1:X:x]] In this section, examples from the Tat language are predominantly cited from (Grünberg 1963).
+e9eecb72-8cac-4ff8-b4cc-b83f074559ee	Личные окончания		Personal endings
+17b0df81-6db1-4eb2-982d-a7beac1facb2	Sg:		Sg:
+df085240-9a72-4e1a-b6f3-cbb8a65b74b1	1.		1.
+3bbf8f02-f098-4a40-9f79-ac8c0c6b09ae	-ym/-um, 2.		-ym/-um, 2.
+1e0799f5-dbd4-49fb-a694-6c18c4d64eca	-i, 3.		-i, 3.
+55120251-c3c2-4d5b-a4d9-36fa516040a9	Pl:		Pl:
+2e41b44b-2a45-4b76-b44f-09f1dbeeeef3	1.		1.
+00a69f68-df92-46da-abbd-848a0bff9519	-im, 2.		-im, 2.
+d12cbb64-ad49-4283-96e0-210b6c7bf85e	-it, 3.		-it, 3.
+c1ac4867-fc88-4f1b-96a4-724c931da405	-yt/-ut		-yt/-ut
+dd43c3f8-3046-458e-a84c-989c20462723	Sg:		Sg:
+044d6b6e-8bc2-48a7-a52e-9e2cc987735e	1.		1.
+8bd0a5d8-0bb3-4337-acc8-3d50152433fe	-ym/-um, 2.		-ym/-um, 2.
+cac42f31-7db1-4e0a-8259-b71a2a584723	-i, 3.		-i, 3.
+697bfd3a-4f27-4994-a795-a498eaf69fc8	Pl:		Pl:
+af259b3d-8bf9-4559-b8d7-46d461f92c88	1.		1.
+37c8b29f-357e-40cf-9aeb-0b2d114c2990	-im, 2.		-im, 2.
+10c25090-7a97-4f48-82d0-504f259dff1f	-ind, 3.		-ind, 3.
+399c06b9-c911-45e6-b1f9-a6886de8c1a5	-ynd/-und		-ynd/-und
+e2f9da20-8609-49ed-976f-ba70d68b32bd	Табл.		Table
+1f7df115-7a1c-44b1-ac07-5cbd5e066a41	2.		2.
+3e2199e2-f5fc-423b-9c03-0bc555613d04	Показатель инфинитива и личные окончания		Infinitive marker and personal endings
+d29543a6-cd7c-4228-9b58-fc431045b304	Инфинитив образуется с показателем -də от производящих основ на согласные и с показателем -rə от производящих основ на гласные, т.к. -d- перешло в -r- в интервокальной позиции.		The infinitive is formed with the marker -də from stems ending in consonants and with the marker -rə from stems ending in vowels, as -d- shifted to -r- in intervocalic position.
+a6987706-250d-4e05-84c3-49a1e7cc6c7a	В татском инфинитив заканчивается на -n:		In Tat, the infinitive ends in -n:
+176a9457-e544-4579-bff5-7e994ff9bc08	nyşdən, tərsirən, в джуури -n утрачено[[1:X:x]] и восстанавливается только в некоторых бывших аналитических формах.		nyşdən, tərsirən, in Juhuri -n has been lost[[1:X:x]] and is restored only in some former analytical forms.
+464284df-052b-446e-98c7-3973a2753db5	[[1:X:x]] В джалганском татском это -n также утрачено (Беляев 2025:		[[1:X:x]] In Jalgan Tat, this -n has also been lost (Belyaev 2025:
+d89393c4-01ed-409d-b35a-6dc39b13fdc5	16-17 сн.)		16-17 fn.)
+a720282a-fc1d-41bd-9394-e0abef50299d	Противопоставление двух основ сильно трансформировалось по сравнению с предыдущими стадиями развития иранских языков.		The opposition of the two stems has transformed significantly compared to the previous stages of development of the Iranian languages.
+166e1e92-5b2b-463f-8bcd-9d815fd5718d	Поскольку многие глагольные формы джуури и татского языка восходят к аналитическим формам, включавшим инфитинитив или совпавшее с ним причастие, в синхронии противопоставлены друг другу основа II, включающая показатель инфинитива (дж. и тат.		Since many verb forms of Juhuri and Tat derive from analytical forms that included an infinitive or a participle coinciding with it, in synchrony Stem II, which includes the infinitive marker (Juh. and Tat.
+b37120ec-4e64-4669-817f-3943ef2e1145	nyşdə – nyşd, tərsirə – tərsir), и основа I, лишенная показателя инфинитива (nyşdə – nyş, tərsirə – tərs).		nyşdə – nyşd, tərsirə – tərsir), and Stem I, lacking the infinitive marker (nyşdə – nyş, tərsirə – tərs), are opposed to each other.
+91cf1d34-bea7-40eb-98ef-66d711294b7e	На стыке производящей основы с показателем инфинитива могли происходить различные фонетические процессы, затемняющие исходный вид основы, поэтому основа I бывает связана с основой II историческими чередованиями: дж.		Various phonetic processes could occur at the junction of the derivational stem with the infinitive marker, obscuring the original form of the stem; therefore, Stem I can be linked to Stem II by historical alternations: Juh.
+80464439-e8e8-4ff8-b8d1-4fd3c9a9a5d3	giroşdə – giror, тат. gyraşdə – gyrar ‘проходить’, дж. vəcirə – vəcyn, тат. vəcirə – vəcin ‘собирать’.		giroşdə – giror, Tat. gyraşdə – gyrar ‘to pass’, Juh. vəcirə – vəcyn, Tat. vəcirə – vəcin ‘to gather’.
+acc4a433-ca1d-4edd-b8bd-0e941060a43f	По соотношению двух основ выделяют несколько классов глаголов (Миллер 1901:		Based on the relationship between the two stems, several classes of verbs are identified (Miller 1901:
+5b4ad83a-4a01-4e1f-a66c-30ef4090e75c	19-26, 1907:		19-26, 1907:
+a59f49e2-80fc-44c2-83e5-482b352f1b59	44-49, Грюнберг 1963:		44-49, Grünberg 1963:
+16eb0fe6-0278-4629-b1a8-7e9298845986	53-58, Грюнберг, Давыдова 1982:		53-58, Grünberg, Davydova 1982:
+38fecdda-87bb-411a-a958-0f7749c917c8	262-265).		262-265).
+a104be21-c11b-4852-b5c7-477df807d348	Распределение глаголов по этим классам не всегда совпадает в джуури и татском: тат.		The distribution of verbs across these classes does not always coincide in Juhuri and Tat: Tat.
+6976d95a-bd7a-4825-bd15-14ea2fad5c14	suxdə – suz, дж. suxdə – sux ‘гореть’, тат. vaxdə – vaz[[1:X:x]], дж. vozirə – voz ‘играть’, тат. gyfdə – gir, дж. gyrdə – gir ‘держать’.		suxdə – suz, Juh. suxdə – sux ‘to burn’, Tat. vaxdə – vaz[[1:X:x]], Juh. vozirə – voz ‘to play’, Tat. gyfdə – gir, Juh. gyrdə – gir ‘to hold’.
+1939bcbb-916b-4022-b620-6a6d25d95c75	В основном эти несовпадения объясняются фонетическими процессами, встречается также развитие супплетивизма в татском при сохранении двух разных глаголов в джуури: тат.		Mostly, these discrepancies are explained by phonetic processes; there is also the development of suppletion in Tat while retaining two different verbs in Juhuri: Tat.
+58391b85-0bc0-430e-99ab-5a202f805e05	narə – il/bil ‘класть’ (Грюнберг, Давыдова 1982:		narə – il/bil ‘to put’ (Grünberg, Davydova 1982:
+c779cc67-9542-4f3f-b04d-2412aa894bee	264), дж.		264), Juh.
+fd4b1f9a-3584-4b94-b10c-5e54f0002cd6	norə – n ‘класть’, hişdə – hil/bihil ‘пускать, позволять’.		norə – n ‘to put’, hişdə – hil/bihil ‘to let, allow’.
+05d58e3c-79e2-40b6-857e-6288986badf7	[[1:X:x]] В речи младшего поколения основа I выравнивается по основе II: наряду с suz, vaz встречаются sux, vax (Грюнберг 1963:		[[1:X:x]] In the speech of the younger generation, Stem I is leveled according to Stem II: alongside suz, vaz, one finds sux, vax (Grünberg 1963:
+2774e63f-a9ff-495e-9a58-76455a504cd6	60).		60).
+0cca5324-4fc3-4d58-9425-340e68cf5f1d	От основы I образуются все формы косвенных наклонений: императив, конъюнктив, оптатив (только в джуури) и форма, которую называют по-разному (Грюнберг, Назарова – будущее потенциальное, Вс.		From Stem I, all forms of oblique moods are formed: the imperative, subjunctive, optative (only in Juhuri), and a form that is named differently (Grünberg, Nazarova – future potential, Vs.
+68d6c490-8187-4489-922f-b3bacf104cd9	Миллер и Анисимов – будущее, Отье и Сулейманов – потенциальное (éventuel, eventual)), выражающая прежде всего модальное, а не видо-временное значение (анализ этой формы Ефимов и др.		Miller and Anisimov – future, Authier and Suleymanov – potential (éventuel, eventual)), expressing primarily a modal rather than aspectual-temporal meaning (analysis of this form: Efimov et al.
+9622192c-9c4f-4ec1-82e6-114706243810	438).		438).
+feafca7f-d301-4e78-a886-56a790e123c5	Форма конъюнктива восходит к аористу в классическом персидском языке, поэтому исследователи, придерживающиеся иранистической традиции, называют ее аористом (Анисимов, Грюнберг, Назарова.		The subjunctive form goes back to the aorist in Classical Persian, so researchers adhering to the Iranian tradition call it the aorist (Anisimov, Grünberg, Nazarova.
+22a5472f-21ad-4c35-97a4-129dca72eaa8	Богданов), но на синхронном уровне ее употребление ничего общего с обычным аористом не имеет, поэтому я буду называть ее конъюнктивом (как и Вс.		Bogdanov), but at the synchronic level its usage has nothing in common with the regular aorist, so I will call it the subjunctive (as do Vs.
+c3fd62b3-756e-496a-b1bc-c33fd9432bc5	Ф.		F.
+1f2776b3-5722-413d-b587-775ab4886cd5	Миллер и Отье).		Miller and Authier).
+1c3be99b-5656-462d-9972-0f3485cd79b7	Форма оптатива в джуури восходит к конъюнктиву в классическом персидском, исконный оптатив утрачен в обоих языках (Грюнберг, Давыдова 1982:		The optative form in Juhuri goes back to the subjunctive in Classical Persian; the original optative is lost in both languages (Grünberg, Davydova 1982:
+a133dce9-65b1-417e-a94a-2b4e44c941fa	267).		267).
+4aedfbd1-55b1-4d85-aa83-4ee4eae81b70	Императив		Imperative
+d6eae29c-0244-4d56-96fe-d4bae52d0564	Оптатив (только дж.)		Optative (Juh. only)
+6950b1bb-1b7e-45ea-9bd4-15e73e489af3	Конъюнктив		Subjunctive
+cddca0c6-e8ae-4656-a587-efbd8b394f80	Будущее потенциальное		Future potential
+3befbc85-41be-4957-a197-05113e5fc2c4	rasum  rasim		rasum  rasim
+81dfaabc-c7ba-4333-987c-a415345bc905	rasi      дж. rasit, тат. rasind		rasi      Juh. rasit, Tat rasind
+86062c01-2346-47d0-b560-21024d97bd81	rasu    дж. rasut, тат. rasund		rasu    Juh. rasut, Tat rasund
+474e325b-cc2a-4c34-a27c-fd655ab48e03	mirasum  mirasim		mirasum  mirasim
+a7506e94-b870-4268-be9e-b18a101eed55	mirasi      дж. mirasit, тат. mirasind		mirasi      Juh. mirasit, Tat mirasind
+3507419d-8162-436c-b655-983f39f44d8b	mirasu    дж. mirasut, тат. mirasund		mirasu    Juh. mirasut, Tat mirasund
+dd3a8594-5ec1-481d-8d52-af5be4c2f531	Табл.		Table
+bf7939da-853d-46dc-9a5c-2957bb5d3cea	3.		3.
+60d29ff3-9ca0-414b-bb38-59ae03f0bc27	Формы, образуемые от основы I, на примере глагола ‘достигать’ (дж. и тат. основа I ras, основа II rasir)		Forms derived from stem I, using the verb ‘to reach’ as an example (Juh. and Tat stem I ras, stem II rasir)
+a1fca2fb-377a-47e3-9dca-7287c41d0fed	От основы II образуются две синтетических формы: перфект II (результатив в прошедшем) и форма прошедшего времени, имеющая аспектуальное значение в татском (Грюнберг называет ее «прошедшее многократное») и модальное значение в джуури (Вс.		"From Stem II, two synthetic forms are formed: Perfect II (resultative past) and a past tense form that has an aspectual meaning in Tat (Grünberg calls it ""past iterative"") and a modal meaning in Juhuri (Vs."
+6abb5396-856a-437a-b8cc-9bb4631c15c4	Миллер называет ее Conditionalis, Отье éventuel passé).		Miller calls it Conditionalis, Authier éventuel passé).
+d841f36a-ce14-49ff-ab74-d58b7dd969a5	В 3Sg глаголов на -rə согласный -r выпадает, форма оканчивается на последний гласный основы (дж. omorə – omo ‘приходить’, dirə – di ‘видеть’).		In the 3Sg of verbs in -rə, the consonant -r falls out, and the form ends in the last vowel of the stem (Juh. omorə – omo ‘to come’, dirə – di ‘to see’).
+1cdda9f7-245f-4fc3-89a0-c7e3e7c29ef2	Перфект II		Perfect II
+fabce0cc-4755-4b02-95e7-09ae31d4aa37	тат.		Tat.
+edc9bfbf-6848-45ef-93d5-5b54cd7d3d24	Прошедшее многократное, дж.		Past iterative, Juh.
+0bd22f08-215b-43f1-b337-205705082296	Форма прошедшего времени, выражающая ирреальные значения		Past tense form expressing irrealis meanings
+10e26d16-a0c0-421f-b337-cf4ded19ec17	rasirym  rasirim		rasirym  rasirim
+bb7003f1-3f8a-48a9-93be-3ba0e2845fad	rasiri     дж. rasirit, тат. rasirind		rasiri     Juh. rasirit, Tat. rasirind
+10ef5571-9566-4c28-b397-88e47bbeb078	rasi       дж. rasiryt, тат. rasund		rasi       Juh. rasiryt, Tat. rasund
+ab8d3bab-52cc-40cf-ad2a-7d148fd4f878	mirasirym  mirasirim		mirasirym  mirasirim
+e3e0695d-16d5-4334-bae5-5d2f3587e96d	mirasiri     дж. mirasirit, тат. mirasirind		mirasiri     Juh. mirasirit, Tat. mirasirind
+0f466a47-dda4-496c-9a40-eaf3e99e434b	mirasi       дж. mirasiryt, тат. mirasund		mirasi       Juh. mirasiryt, Tat. mirasund
+6902012d-a137-47ad-8344-115d6ef50182	Табл.		Table
+0913b03c-5101-4cce-b6d7-911c4fb64d4c	4.		4.
+a66164af-9f52-45cd-8070-8b82282755b9	Синтетические формы, образуемые от основы II, на примере глагола ‘достигать’		Synthetic forms formed from Stem II, using the example of the verb ‘to reach’
+8dbb278b-0011-493c-ad36-9aba6c69849a	Кроме этих двух синтетических форм, от основы II образуется большое количество аналитических и бывших аналитических форм.		In addition to these two synthetic forms, a large number of analytical and former analytical forms are formed from Stem II.
+b26cbc7a-a8db-4d69-a29f-37af8e846678	Они восходят к комбинации отглагольных имен (инфинитива, причастия, герундива) с формами связки, с формами глагола ‘быть’ от основ bir-, boş-, bisd- и с другими формантами.		They trace back to a combination of verbal nouns (infinitive, participle, gerundive) with copula forms, with forms of the verb ‘to be’ from the stems bir-, boş-, bisd-, and with other formants.
+3c7dd0c0-8325-417d-ad96-0f153768a145	Способы их образования и функции пока недостаточно хорошо описаны как для татского языка, так и для джуури, поэтому детальное их сопоставление остается делом будущего.		The methods of their formation and their functions are not yet sufficiently well described for either Tat or Juhuri, so their detailed comparison remains a matter for the future.
+d34ac38e-1a24-4bbf-a525-b6b95b92f468	Я рассмотрю здесь только три формы с основой II, о которых точно можно сказать, что они различаются в татском и джуури.		Here I will consider only three forms with Stem II that can be definitely said to differ in Tat and Juhuri.
+ca289c84-187a-48fc-a816-207d537e3b95	Форма, восходящая к аналитической форме герундив + связка:		The form, tracing back to the analytical form gerundive + copula:
+39b8beb2-3623-4505-907a-1c62de599442	Sg.		Sg.
+66434496-8bf7-4ad8-ac9d-7aa5d16baab2	1.		1.
+ba5d3dc8-f0d6-46cd-8813-4673c843dc82	rasirən-ym  2. дж. rasirən-i, тат. rasirəniji 3. rasirən-i		rasirən-ym  2. дж. rasirən-i, тат. rasirəniji 3. rasirən-i
+e94e1493-a4a8-4b34-a7b0-3a5ca4c465e3	Pl.		Pl.
+dd595099-6a17-4653-8727-5bc08d6aad4c	1.		1.
+814b33d6-30a5-43b7-9adc-dfa48f384532	rasirənim 2. дж. rasirənit, тат. rasirənind 3. дж. rasirənyt, тат. rasirənund		rasirənim 2. дж. rasirənit, тат. rasirənind 3. дж. rasirənyt, тат. rasirənund
+05409ea0-7b79-48cc-af0c-c785d00dbf6b	В татском эта форма имеет значение будущего категорического (Грюнберг 1963:		In Tatar this form has the meaning of categorical future (Grünberg 1963:
+c2a5fbe7-b20c-41cf-ac59-865825028077	71).		71).
+b97955b2-c840-41aa-9217-dabc8ae88d98	В джуури это форма настоящего времени, выражающая видовое значение, близкое к хабитуальному, и противопоставленная другой форме настоящего времени, образуемой с формантом ədə-, со значением прогрессива:		In Juur this is a present tense form expressing an aspectual meaning close to habitual, and opposed to another present tense form formed with the formative ədə-, with a progressive meaning:
+e842f02e-2fcc-4489-a76d-e6e087a8a62d	Sg.		Sg.
+95412736-8bd2-4e0e-9191-e1c451ffc41b	1.		1.
+ee7b8e92-3d64-4ef0-b03f-3a67b4317b53	ədəm rasirə 2. ədəj rasirə  3. ədəj rasirə		ədəm rasirə 2. ədəj rasirə  3. ədəj rasirə
+adc4ee41-1ca9-42b1-a15d-4a904a1b3be3	Pl.		Pl.
+8d3e099e-63ee-48c8-9a05-95b14fba292c	1.		1.
+0b6d05e8-cac1-43ec-b38a-a2bd8ceb9404	ədəjm rasirə 2. ədəjt rasirə  3. ədət rasirə		ədəjm rasirə 2. ədəjt rasirə  3. ədət rasirə
+c3f0880d-4053-4ebb-ba5b-e05b91379ed0	Примеры:		Examples:
+f928a28b-ae15-4686-bf7d-9f88e8c8990d	U ədəj xisirə ‘Он спит (сейчас)’, U ə i utoq xisirəni ‘Он спит в этой комнате (всегда, как правило)’.		U ədəj xisirə ‘He is sleeping (now)’, U ə i utoq xisirəni ‘He sleeps in this room (always, as a rule)’.
+b72601a7-cc37-40f8-b300-4827089c4d9a	С формантом ədə- образуется и прогрессив в прошедшем:		With the formative ədə- a past progressive is also formed:
+cfef4b12-1c2f-4e98-ac01-79a4fac1cd0a	Sg.		Sg.
+f5ba7979-4d42-48c4-b75b-ed387f12d280	1.		1.
+94d86792-bec4-4267-a437-5b88e55477da	ədəmbirym rasirə 2. ədəmbiri rasirə  3. ədəmbu rasirə		ədəmbirym rasirə 2. ədəmbiri rasirə  3. ədəmbu rasirə
+5167a4a5-434a-4aaf-af6c-435e7a56aefa	Pl.		Pl.
+40dfaecd-45ce-4926-80a8-de2832557d98	1.		1.
+af73e039-5c64-45f0-8139-3fd26bf55566	ədəmbirim rasirə 2. ədəmbirit rasirə  3. ədəmbiryt rasirə		ədəmbirim rasirə 2. ədəmbirit rasirə  3. ədəmbiryt rasirə
+72777ec9-1f02-4039-8f92-62308b4a3c1b	В татском языке формы с ədə- отсутствуют, но возможно, какие-то из аналитических или бывших аналитических форм тоже выражают значение прогрессива.		In the Tatar language, forms with ədə- are absent, but it is possible that some analytical or former analytical forms also express the progressive meaning.
+f4b654b7-569a-4c9c-ac08-b07aefb6116e	Пассивный залог в обоих языках образуется аналитически: дж. инфинитив + глагол omorə, тат. инфинитив + глагол birən.		The passive voice in both languages is formed analytically: дж. infinitive + the verb omorə, тат. infinitive + the verb birən.
+f988bdc8-2489-4b44-99d2-9777359c34cf	Лексика		Lexicon
+2ea3ba07-7cdc-47af-8087-4bd2272877c6	Основной массив татской лексики и лексики джуури имеет общее происхождение.		The core body of Tatar lexicon and Juuuri lexicon has a common origin.
+387e293c-48ba-4449-84b6-512193ea5e63	Он состоит из нескольких пластов:		It consists of several layers:
+cabd8bd3-c0ad-4dcc-b506-b16cbc2c5c82	исконные слова иранского происхождения,		native words of Iranian origin,
+5018f908-1cc1-4d09-b752-1c3b810c26e8	тюркизмы – результат воздействия азербайджанского языка и, в меньшей степени, других тюркских  языков Кавказа,		Turkicisms – the result of influence from the Azerbaijani language and, to a lesser extent, other Turkic languages of the Caucasus,
+60868c97-68c5-451d-85ff-68a282229769	арабизмы, воспринятые не из арабского языка непосредственно, а через другие языки мусульманских народов – азербайджанский, другие тюркские и персидский языки,		Arabisms, taken not directly from the Arabic language but through other languages of Muslim peoples – Azerbaijani, other Turkic, and Persian languages,
+010ad387-7231-44db-a652-9aad7681eba4	заимствования из русского языка, которые относятся к трем периодам: имперскому, советскому и постсоветскому.		borrowings from Russian that belong to three periods: Imperial, Soviet, and post‑Soviet.
+bec306db-3e06-4fc7-9628-b748692bf18f	В джуури есть еще один лексический пласт – гебраизмы (слова из древнееврейского языка, включая слова арамейского происхождения).		In Juuuri there is another lexical layer – Hebraisms (words from ancient Hebrew, including words of Aramaic origin).
+c5d934aa-d8e7-4018-b491-edcb384bc658	В татской лексике этот пласт, разумеется, отсутствует.		In the Tatar lexicon this layer, of course, is absent.
+a3de5ad9-5394-4ed4-a19b-7d5458454cab	В рамках данной статьи я хочу уделить внимание прежде всего гебраизмам в джуури и их соответствиям в татском.		In this article I want to focus primarily on Hebraisms in Juuuri and their counterparts in Tatar.
+c116c8e4-af81-49aa-8f28-7e7ad1b4324b	Но лексические различия между джуури и татским языком не сводятся к наличию/отсутствию гебраизмов.		But the lexical differences between Juuuri and the Tatar language are not reduced to the presence/absence of Hebraisms.
+6adc5beb-a6ca-4e9b-bed6-356280a5b501	Например, татским тюркизмам г’iмiш ‘серебро’ и гзыл ‘золото’ (из тюрк. qizil ‘красный’) соответствуют в джуури слова иранского происхождения nyqrə ‘серебро’ (перс. noqre) и syrxi ‘золото’ (перс. sorkh ‘красный’).		For example, the Tatar Turkicisms g’iмiш ‘silver’ and gzyl ‘gold’ (from Turkic qizil ‘red’) correspond in Juuuri to Iranian‑origin words nyqrə ‘silver’ (Pers. noqre) and syrxi ‘gold’ (Pers. sorkh ‘red’).
+156a3e6c-395c-4792-8104-adc6d558c8aa	Исконные слова в обоих языках восходят иногда к разным иранским корням: джуури dədə ‘мать’ и bəbə ‘отец’, татск. мö ‘мать’ (перс. mādar) и пijäр ‘отец’ (перс. pedar), или слова одинакового происхождения получают разное морфологическое или фонетическое оформление (дж. şumordə и татск. бiшмардан ‘считать’ – перс. šomordan, дж. birəħnə и татск. бυнähрä ‘голый’ –  перс. berahne).		Native words in both languages sometimes trace back to different Iranian roots: Juuuri dədə ‘mother’ and bəbə ‘father’, Tatar mö ‘mother’ (Pers. mādar) and pijär ‘father’ (Pers. pedar), or words of the same origin acquire different morphological or phonetic forms (J. şumordə and T. bişmardan ‘to count’ – Pers. šomordan, J. birəħnə and T. bünährä ‘naked’ – Pers. berahne).
+069f16ce-4acd-4687-8542-5d0394f900c2	В советский период источником культурных заимствований для обоих языков был русский.		In the Soviet period, the source of cultural borrowings for both languages was Russian.
+a1ad3886-d98f-4744-b154-f259f72b4ade	В постсоветский период ареал распространения обоих языков – и татского, и джуури – оказался пересечен государственной границей, разделяющей области доминирования разных государственных языков.		In the post‑Soviet period, the distribution area of both languages – both Tatar and Juüri – turned out to be intersected by a state border that separates regions dominated by different official languages.
+54cc5ed3-94a5-44b3-8535-fced9c84d8af	Те татские диалекты и диалекты джуури, которые распространены на территории РФ, черпают названия новых реалий из русского языка, а диалекты, распространенные на территории Азербайджана, - из азербайджанского (ср.		The Tatar dialects and Juüri dialects that are spoken in the territory of the Russian Federation draw the names of new realities from Russian, while the dialects spoken in the territory of Azerbaijan take them from Azerbaijani (cf.
+efe10eb5-b068-4dc8-a0b7-add2ff9a3376	Hüseynova 2013:		Hüseynova 2013:
+e8bc9e97-8367-405e-9741-0ececce55547	82-83).		82‑83).
+f93b3b13-62cb-4957-90bf-dc32242f8969	Трудно сказать что-то более определенное о лексических изменениях обоих языков в постсоветский период, учитывая происходящий в сообществах языковой сдвиг, интенсивную миграцию носителей джуури и отсутствие данных, кроме полевых материалов.		It is difficult to say anything more definitive about the lexical changes in both languages in the post‑Soviet period, given the language shift occurring in the communities, the intensive migration of Juüri speakers, and the lack of data beyond field materials.
+e17dafb3-bbf2-4110-b3e9-a835c8da9eb0	Выявлением гебраизмов в джуури занималась Ф.		The identification of Hebraisms in Juüri was carried out by F.
+9500e5b0-a564-4eab-bda9-d0367a52526c	Б. Юсуфова (Юсуфова 2009).		B. Yusupova (Yusupova 2009).
+e2d59d79-3e2d-4205-85c9-3c9fe093c1ac	Довольно значительный список гебраизмов приведен у М.		A fairly extensive list of Hebraisms is presented by M.
+529a0993-0e33-482a-8a24-fd3a204c7559	И.		I.
+ddbb3522-65c2-4628-a7e8-7960facd53a1	Гаджиева (Hacıyev 2009:		Gadzhieva (Hacıyev 2009:
+bf994f23-f410-46e7-9a61-a4580dad847b	91-92).		91‑92).
+664187de-f1c7-49aa-80e7-ff6fc7c91d32	У меня нет информации о том, на какие источники они опирались, поэтому из этих работ я включила в рассмотрение только те слова, которые внесены в словари Агаруновых, Изгияевой или Нафталиева (хотя бы в один из них) и имеют в них значение, близкое к древнееврейскому слову.		I have no information about which sources they relied on, so from these works I included for consideration only those words that are entered in the dictionaries of Agarunova, Izgiayeva or Naftaliev (at least in one of them) and have a meaning close to the ancient Hebrew word.
+f2e7ae28-c8da-495b-be04-b265577dd78f	Несколько десятков гебраизмов с этимологией и анализом некоторых процессов при адаптации их в джуури приводит Г.		G. presents several dozen Hebraisms with etymology and an analysis of some processes in their adaptation into Juüri.
+b8693804-aaf7-476a-a395-fa8efe89e431	Н.		N.
+e4cfcaeb-b4e2-408f-8444-5727118adf6e	Богданов (Богданов 2020:		Bogdanov (Bogdanov 2020:
+dda50c03-77d1-4f93-9c67-7a2bdd43d664	116-122).		116‑122).
+da2c11ba-3395-40a2-8428-0f7f0b349621	Татские слова в этом разделе взяты из словарей-приложений к книгам Миллер 1901, Hacıyev 2009, Hüseynova 2013		The Tatar words in this section are taken from the appendix dictionaries to the books Miller 1901, Hacıyev 2009, Hüseynova 2013.
+6b11e388-0075-4979-91b2-226c564ce86f	Значительную часть гебраизмов составляют слова, обозначающие реалии, связанные с иудаизмом:		A significant portion of the Hebraisms consists of words denoting realities associated with Judaism:
+d0df3bb4-863f-4b06-8518-49015386b586	lulov ‘лулав, пальмовая ветвь – атрибут праздника Суккот’ (לולב),		lulov ‘lulav, a palm branch – an attribute of the Sukkot holiday’ (לולב),
+7b065562-7e19-4bf4-8e28-e22f96054838	mozuzə ‘мезуза – амулет у входа в дом’ (מזוזה),		mozuzə ‘mezuzah – an amulet at the entrance of a house’ (מזוזה),
+71e12c31-ac54-4a3f-9601-4b55bef52c5b	sisid ‘талит – молитвенное покрывало’ (ציצת ‘кисти, нашиваемые по углам талита’),		sisid ‘tallit – a prayer shawl’ (ציצת ‘fringes sewn on the corners of the tallit’),
+ef07d809-3652-4fdf-b736-0e5c913843e6	ԧərəvit ‘вечерняя молитва’ (ערב ‘вечер’) и т.д.,		ԧərəvit ‘evening prayer’ (ערב ‘evening’) etc.,
+9c8cb1a5-b928-4b90-b316-82f056ef075f	а также имена собственные, названия праздников, месяцев по еврейскому календарю, священных текстов.		as well as proper names, names of holidays, months of the Jewish calendar, sacred texts.
+afc1c5f0-65b1-4e56-9b13-3619c94feec3	Все это отсутствует в культуре татов-мусульман, и соответствующих слов нет в татском языке.		All of this is absent in the culture of Tatar Muslims, and there are no corresponding words in the Tatar language.
+0ad8433c-f7c7-400f-9391-b9964b1f40c9	Некоторые важнейшие для иудаизма реалии и понятия в джуури обозначаются не гебраизмами, а словами другого происхождения: nimaz ‘синагога’ (ср.-перс. namāz ‘молитва, поклонение’, тат. nimaz ‘молитва’, nimazgah ‘молельня, место для молитвы’ (Hüseynova 2013:		Some of the most important realities and concepts for Judaism in Juurí are designated not by Hebraisms but by words of other origin: nimaz ‘synagogue’ (Middle Persian namāz ‘prayer, worship’, Tatar nimaz ‘prayer’, nimazgah ‘prayer house, place for prayer’ (Hüseynova 2013:
+b4532db4-a01d-4bb4-8dee-8abdf6c4d468	167)), ħəlol ‘кошерный, дозволенный’ (азерб. halal, тат. həlal ‘халяльный, дозволенный’), ħərym/ħərim ‘трефной, недозволенный’ (азерб. hərəm, тат. həram/hərəm то же).		167)), ħəlol ‘kosher, permitted’ (Azerb. halal, Tatar həlal ‘halal, permitted’), ħərym/ħərim ‘forbidden, prohibited’ (Azerb. hərəm, Tatar həram/hərəm same).
+522feeb4-4e18-4140-b8e7-9b7ed97aaf31	Для некоторых понятий, связанных в джуури с иудаизмом, но имеющих более универсальное значение, существуют пары синонимов, один из которых древнееврейского происхождения, а второй этимологически совпадает с татским:		For some concepts linked in Juurí to Judaism but having a more universal meaning, there are pairs of synonyms, one of which is of ancient Hebrew origin, and the other etymologically coincides with Tatar:
+d8904a8c-b117-41b3-ac88-6d4252eeb7d5	‘молитва’ təfilo (חפילה) и duvo (азерб. dua, татск. düo), ‘траур’ ovil (אבל) и jos (азерб. jas, тат. joc).		‘prayer’ təfilo (חפילה) and duvo (Azerb. dua, Tatar düo), ‘mourning’ ovil (אבל) and jos (Azerb. jas, Tatar joc).
+ea75daba-85e7-4a97-b42c-ad17e4ab8e03	Гебраизмам джуури соответствуют иранизмы или тюркизмы в татском:		Hebraisms in Juurí correspond to Iranisms or Turkisms in Tatar:
+074ef5aa-8998-4348-9ca7-c888e284919b	Джуури		Juurí
+1a5f11c5-6015-4e14-97aa-1737847b0805	Татский		Tatar
+398f6648-c0fa-4c6b-bc18-bf6c561c53d0	происхождение в татском		origin in Tatar
+ee6fcf6e-f4b9-44c4-851d-7e18cd2aa134	перевод		translation
+418e4148-2119-4fbd-a6a8-d26d3ce792cd	dəԧəm (טעם)		dəԧəm (טעם)
+d5297524-8a3d-4238-8b32-491d8bdaebe7	азерб.		Azerb.
+18b662d1-3847-480b-8a57-60800b63fd45	(из арабск.)		(from Arabic)
+c8f6a745-d65f-4b05-9e22-c9c7bda688d5	вкус		taste
+c6c33c22-6134-4306-bce9-988789cf0aab	dorum (דרום)		dorum (דרום)
+548d7998-6510-4e47-b5b1-2a76cf87dbc7	азерб. и многие кавказские языки: qibla ‘юг’ из арабск. qibla ‘направление на Мекку’		Azerb. and many Caucasian languages: qibla ‘south’ from Arabic qibla ‘direction toward Mecca’
+ad73e9df-8b99-4e1b-8ffb-b83eeb72ee6d	юг		south
+1e8d956d-d854-4ebd-9da5-f6cb7b75791f	gənԧidin (גן עדן)		paradise (Garden of Eden)
+f5477ecd-9224-4ba5-b71a-1ebe40d7b660	çənnət, беhiшт		paradise, behišt
+6d0bcbad-6a77-4379-b7ac-1cdb4f3f10ba	азерб.		Azerbaijani
+1ca807fc-125a-472f-be51-0a0beb71c0e0	(из арабск.)		(from Arabic)
+38ac1ea6-756b-43f1-8a69-f8f0cc784b21	сənnət, перс. behisht		paradise, Pers. behisht
+96ec1d56-f5c0-410e-ae40-1c964a7899e7	рай		paradise
+05242cd9-31e2-40b4-a8f9-98c7da5433a9	ԧoşir (עשיר)		rich (עשיר)
+6b4ac94b-d24c-44fb-be11-e823117270db	азерб.		Azerbaijani
+54e09f4b-c68c-44a6-97c1-e8a7aa774f22	(из арабск.)		(from Arabic)
+5c13ceff-ce77-4d0f-8cae-8db0a91aca2f	богатый		rich
+fd307812-0d78-43e0-ab10-1a5bb47cbe18	ħəton (חתן)		groom (חתן)
+670ed903-7b7e-4a5f-a4dc-8fbc74d6f4b5	азерб. adaxlı		Azerbaijani adaxlı
+2a59b04d-7235-4417-b5df-2d3136054986	жених		groom
+49e32581-96ae-47e1-adf4-7b61c863cf29	məԧərov (מערב)		west (מערב)
+abef8586-2cd0-4654-864f-319e1fff1ab5	тат. afto ‘солнце’ + firomoran ‘спускаться’		Tat. afto ‘sun’ + firomoran ‘to descend’
+ad86d5fb-e411-4326-879c-0705e02a8395	запад		west
+04363c4f-17d1-40f9-9a97-77205266e5e8	miħillo (מחילה)		forgiveness (מחילה)
+3e20e3e3-3081-4757-81c4-aff7ae713fec	азерб.		Azerbaijani
+4855254a-b4f0-49c4-8956-165abdbe2dbf	(тюркск.)		(Turkic)
+f213dbdd-0d08-4165-bc33-7ca9a297899e	прощение		forgiveness
+388d5110-a5a8-471c-a68c-e52a77305d1a	miԧid, устар.ԧid ((מועד		miԧid, archaic ԧid ((מועד
+65e76144-f25a-475a-b6af-83625bf3e546	перс. eyd		Persian eyd
+a0c1a143-4298-4b78-be24-a9120594e99a	праздник		holiday
+77955473-3241-4720-b974-bb9302685c42	mito (מת)		mito (מת)
+a9d13a4e-8315-4248-8131-ab23a8eec48b	[[1:X:x]] У Миллера значение ‘труп’, у Гусейновой ləş ‘подкожный жир и мясо’		[[1:X:x]] Miller gives the meaning 'corpse', Guseinova gives ləş 'subcutaneous fat and meat'
+e1710ede-f483-4214-9e06-7e81685a3bb3	перс. lash, азерб. ləş		Persian lash, Azerbaijani ləş
+0295324b-e003-4a68-933e-5d0c88aebf33	мертвец		corpse
+3fd3d552-d0e1-476f-80e1-89f2f781361a	muvəħ (מוח)		muvəħ (מוח)
+714fe982-d89a-4490-a553-f37e4e33e19b	бejін, məğz		бejін, məğz
+aef1bb31-60a9-4546-ac65-4cc57d6f23fb	азерб.		Azerbaijani
+ea022a60-5e28-4798-9fff-966c86e3fe39	(тюркск.)		(Turkic)
+6b16d2d5-b4a7-4cc1-a4a6-9852a2c577a1	bejin, перс. maghz		bejin, Persian maghz
+f6bed54f-db69-4321-bfcf-5b457a703a05	мозг		brain
+5bd1ec4a-8ca5-468f-8431-c31172f57f50	mizrəħ (מזרח)		mizrəħ (מזרח)
+4ff8fb2d-6e62-41a4-b490-6f5c5f9cee9e	тат. афто ‘солнце’ + вäрморан ‘подниматься’		Tat afto 'sun' + värmoran 'to rise'
+c3b93af7-1a7c-42ad-a27f-9e976c6149b3	восток		east
+8b1244cd-bf38-4991-aae5-6e9e67083ffc	qovrə (קבר)		qovrə (קבר)
+e91aaa70-92b9-45b3-bbab-f5ba9bff04b7	перс. qabr, азерб. qəbir		Persian qabr, Azerbaijani qəbir
+65dee6d1-4ac5-405d-992f-5b91d0b0f39d	могила		grave
+d4a03f19-8787-4719-8a6a-8fdd45381c95	ryħ (ивр.		ryħ (Hebrew
+e17b198a-74cc-4475-8fb6-f9a169d1ba5b	רוח)		רוח)
+39cec5dc-d3ea-47a8-987f-f81adb52c9b7	перс. bu		Persian bu
+8a81dc5e-271a-4031-a78b-cab51f73d7d9	дух, запах		spirit, smell
+261b68ed-6089-4468-a759-44db91d4e344	sodiq (צדיק)		sodiq (צדיק)
+4fb59db9-9a94-4e7a-a206-8d4781f500e4	арабск. siddiq (перешло и в перс., и в азерб.)		Arabic siddiq (passed into both Persian and Azerbaijani)
+51b06942-c0da-4dfc-978f-73ac12850eb9	верный, праведный		faithful, righteous
+9a33c3b6-14b0-4fef-b04d-0e4d74b6dc8f	sofun (צפון)		sofun (צפון)
+6c6ca57f-74ee-426c-9a80-6b0f575594bb	перс. şamal, азерб. şimal		Persian şamal, Azerbaijani şimal
+3d2999ed-5dee-4d7e-b696-b7728d4d180b	север		north
+104b712a-6f0a-4657-980c-7dbd3016bfce	təlmid (תלמיד)		təlmid (תלמיד)
+cf513d67-2398-4bba-af6b-b8fa662274b0	перс. şagerd		Persian şagerd
+1620981b-e132-4744-9a50-55ffc5248c17	ученик, последователь учения		student, follower of a teaching
+5f83a8b9-245b-4f34-a8ce-5d52f1c7db5b	Табл.		Table
+15af3741-1717-4ef8-abc3-ef6145468395	5.		5.
+29470d3a-7b20-4c63-b06a-575c87c8c609	Гебраизмы и их лексические соответствия в татском		Hebraisms and their lexical equivalents in Tat
+9b628bf4-45a6-42d8-8b41-9cb783478d30	К сожалению, пока не удалось найти татские соответствия многим гебраизмам: paşut ‘простой, наивный’ (פּשוט), şovԧo ‘клятва’ (שבועה), xoxom ‘мудрец’ (חכם), şolum формула приветствия и şolumi ‘мир’, (שלום), syԧydo ‘трапеза’ (סעודה), məsubo ‘надгробие’ (מצבה) и другим.		Unfortunately, it has not yet been possible to find Tat equivalents for many Hebraisms: paşut ‘simple, naive’ (פּשוט), şovԧo ‘oath’ (שבועה), xoxom ‘wise man’ (חכם), şolum greeting formula and şolumi ‘peace’, (שלום), syԧydo ‘meal’ (סעודה), məsubo ‘gravestone’ (מצבה), and others.
+7bfc8fb6-1b61-4178-87e4-a4ebfe2fd4fc	Заключение		Conclusion
+b81ffe25-d248-4be7-ad8a-5fff3cbd9279	Традиция изучения джуури и татского языка насчитывает более ста лет.		The tradition of studying Juhuri and the Tat language spans more than a hundred years.
+cae711e3-787b-4ea8-ad43-01917896c3aa	Это относительно богатая традиция, и имеющиеся описания позволили нам проанализировать некоторые различия между татским и джуури, но описаний явно недостаточно.		This is a relatively rich tradition, and the available descriptions have allowed us to analyze some differences between Tat and Juhuri, but the descriptions are clearly insufficient.
+ee567d33-a20e-409e-910f-1b32c4384e5d	Семантика атрибутивных конструкций, большинство аналитических форм глагола и их видо-временные и модальные значения, словообразование, предлоги и многие другие темы остались неосвещенными.		The semantics of attributive constructions, most analytical verb forms and their aspectual-temporal and modal meanings, word formation, prepositions, and many other topics remained unaddressed.
+54eb51ed-127c-42d5-844c-1741444e07ec	Изучить эти вопросы планируется при помощи корпусных исследований – на корпусе текстов на джуури, собранных в библиотеке фонда СТМЭГИ, и относительно небольшом корпусе текстов на татском языке, имеющихся в фондах отдела национальных литератур Российской национальной библиотеки.		It is planned to study these issues through corpus-based research – using a corpus of Juhuri texts collected in the library of the STMEGI Foundation, and a relatively small corpus of Tat texts available in the collections of the Department of National Literatures of the National Library of Russia.
+a22745dc-cef7-4e31-aafa-b067669ea70e	Еще одно привлекательное направление дальнейших исследований – это сопоставление джуури с другими еврейско-иранскими языками.		Another attractive area for further research is the comparison of Juhuri with other Judeo-Iranian languages.
+f7d412e4-e663-49b9-8c7b-f31ece8a9961	Здесь особенно интересен вопрос о составе лексического пласта гебраизмов за пределами семантического поля религии и о способах адаптации гебраизмов в различных еврейско-иранских языках.		Of particular interest here is the composition of the lexical layer of Hebraisms outside the semantic field of religion and the methods of adapting Hebraisms in various Judeo-Iranian languages.
+7fd137b7-0b05-47ca-af5e-2503e6225206	В заключение я хочу еще раз подчеркнуть, что никакие структурные различия ничего не означают для решения вопроса о статусе языка.		In conclusion, I want to emphasize once again that no structural differences mean anything for resolving the question of language status.
+d753f1a0-59ee-4f97-8efa-851c4cc52307	Литература		References
+80779dd9-2484-4a14-ad3a-2209b9ce1835	Словари		Dictionaries
+00e7c78d-edf0-4a36-b67c-2484810b5448	Агарунов Я.		Agarunov Ya.
+f73b945a-4daf-4d5b-9f13-a6e58ba1ecd5	М., Агарунов М.		M., Agarunov M.
+10a777a5-7e7e-46c6-bbd7-c74d55863866	Я.		Ya.
+25542cc4-2b83-47a6-810f-60976610678e	Татско (еврейско) – русский словарь.		Tat (Judeo) – Russian Dictionary.
+786b8243-fb6b-4e2e-9cbe-71e4a528627f	Lyqət əz çuhuri ə urusi.		Lyqət əz çuhuri ə urusi.
+e6b67384-8d02-4e52-8c9d-0b195581e939	М.:		Moscow:
+8b310b9b-8016-4574-97bb-e560b42c1071	Еврейский университет в Москве, 1997		Jewish University in Moscow, 1997
+266ab300-ffad-4010-8154-8d658c7e6c84	Агарунов Я.		Agarunov Ya.
+a8576889-5096-4234-8bce-29c83f84dcb7	М., Агарунов М.		M., Agarunov M.
+7425490c-b1ae-4378-ad7f-c179c0b0e79c	Я.		Ya.
+01392a75-839b-40f7-bc75-a330539c85f9	Большой словарь языка горских евреев – джуури.		Comprehensive Dictionary of the Language of Mountain Jews – Juhuri.
+620cb625-a3c7-4ea4-bdea-a02e2241a712	Пятигорск:		Pyatigorsk:
+2a41cec1-72f2-4db1-b28b-483533e4be96	ПЕРО «Геула», 2010		"PERO ""Geula"", 2010"
+405598c1-6cac-4a78-b670-6d2ba67bc7ae	Амир (Иванченко) В. Гофноме жугьури – уруси.		Amir (Ivanchenko) V. Judeo-Tat – Russian Dictionary.
+9ad78315-7b43-4f61-a881-dcec876b609c	Горско-еврейско – русский словарь.		Mountain Jewish – Russian Dictionary.
+942b02c9-798d-4396-88fb-8dfcaaf99295	Тель-Авив:		Tel Aviv:
+5acd8850-5034-4821-846f-cb30aa9e157c	Beit Nelly Media, 2020		Beit Nelly Media, 2020
+9293b623-6985-4107-ab9c-7976be3c30c2	Гаврилов Б. Г., Изгияева А. Б. Орфографически гофноме зугьун тати.		Gavrilov B. G., Izgiyaeva A. B. Orthographic Dictionary of the Tat Language.
+300f6d32-88bb-4a98-b857-6067dbcd8330	Махачкала:		Makhachkala:
+1e488005-db75-4bf4-97f4-cc0ee528b970	Дагучпедгиз, 1995		Daguchpedgiz, 1995
+d8d542c1-71d6-4d08-92d0-57a67aaa0014	Гаврилов М., Гаврилов С. Гофноме эз уруси э жугьури.		Gavrilov M., Gavrilov S. Russian – Judeo-Tat Dictionary.
+90cda668-5c98-4775-a305-7590fbd97df4	Русско – горско-еврейский (джуури) словарь.		Russian – Mountain Jewish (Juhuri) Dictionary.
+86e7dc04-0082-4a04-a068-2aca52a9df13	Центр «Sholumi», Израиль, 2025		"""Sholumi"" Center, Israel, 2025"
+c3413836-00bb-418e-b18e-1d87301d6bfc	Дадашев М.		Dadashev M.
+5b0ed6d9-4a0c-4c24-aaca-e65da217f0eb	Б. Гофноме эз уруси э жугьури.		B. Russian – Judeo-Tat Dictionary.
+5431e046-123d-4b85-acf0-32922da23ff6	Русско-татский (горско-еврейский) словарь.		Russian-Tat (Mountain Jewish) Dictionary.
+b3f3760b-f54b-434b-8190-355c52d6793f	М.:		Moscow:
+7cb35de0-5824-4179-8277-33cb85f1815c	Изд-во «Собрание», 2006		"""Sobranie"" Publishing House, 2006"
+34eb1217-b4ef-4a11-9411-59f980bca4e6	Изгияева А. Б. Гофномей зугьун тати э шукуьлгьоревоз.		Izgiyaeva A. B. Dictionary of the Tat Language with Pictures.
+c3907810-1941-44a1-8161-f56559bf62d5	Словарь татского языка с картинками.		Dictionary of the Tat language with pictures.
+055311d3-0dce-49d2-9bda-e7e9d957c3e8	Для учащихся начальных классов школ.		For primary school students.
+c204ff8b-f49a-4af3-89e2-92d0cfaec78c	Дербент, 1995.		Derbent, 1995.
+d7cb159a-445a-4db6-9e85-c2e306e87529	Изгияева Э.		Izgiyaeva E.
+0ef0ce25-34bd-4f45-a3ab-b742aa624395	Б. Татско-русский и русско-татский словарь.		B. Tatar‑Russian and Russian‑Tatar dictionary.
+123d6d0f-4936-4e3f-9b64-a953f5f7a3bf	Татский язык горских евреев Кавказа.		Tatar language of the mountain Jews of the Caucasus.
+edd7ee90-a6a6-447b-a093-0afa4e7cd62d	Махачкала:		Makhachkala:
+a03ce881-9546-4ec2-ae12-4101c0530803	Изд-во «Юпитер», 2005		Publishing house “Jupiter”, 2005
+55d3b3e7-46fc-4d92-b985-dfdb8a677620	Ифраимов И.		Ifraymov I.
+87a4fd6c-55a1-4a02-b158-a71c7610061d	И.		I.
+cdc51168-cc35-4624-95a2-b29557676de0	Гофгьой таты нэ урисинэ э суротовоз эри гIэилгьо.		Гофгьой таты нэ урисинэ э суротовоз эри гIэилгьо.
+b9456a0a-286c-4cac-9617-c7a68c4c5cc6	Татско-русский иллюстрированный словарь для детей.		Tatar‑Russian illustrated dictionary for children.
+c7afa24f-a114-4664-ad36-dc5c0ef16c71	Нальчик:		Nalchik:
+d792132e-842d-4ed5-b8f4-8077cd3109f9	Нарт, 1991		Nart, 1991
+72d02eb3-ceb6-49ba-88a6-10c0638b9117	Нафталиев М.		Naftaliev M.
+f8e0a718-6af5-447c-bb0d-0405fb3b2830	Н.		N.
+99b9822b-3088-4592-b4ab-06c32296bbe2	Lyqət çuhuri – urusi.		Lyqət çuhuri – urusi.
+7d612f1d-ffe1-4056-9661-f61774c3aa87	Еврейско (джуури) – русский словарь.		Jewish (Juhuri) – Russian dictionary.
+2b3ab035-d276-423e-89c2-1b276e43b45c	М.:		M.:
+46c0bdc4-5d54-4cf9-9cea-345a78726a2b	Издательский дом СТМЭГИ, 2016, Иванченко 2020.		Publishing house STMЕGI, 2016, Ivanchenko 2020.
+1cc06597-b88d-4dd7-b09c-6e8eee19e729	Нафталиев М.		Naftaliev M.
+eff781c2-495e-4f9e-9f30-bf8eefa0b630	Н.		N.
+9d308e56-dfc9-4e7e-a7ca-23c3ed1be7e8	Лүгəт уруси – ҹуhури.		Лүгəт уруси – ҹуhури.
+f89db95e-b495-4faa-ba74-25605b05a9ba	Русско-еврейский (джуури) словарь.		Russian‑Jewish (Juhuri) dictionary.
+352eca35-a84f-46ce-8303-5725fdde37b3	М.:		M.:
+6877d4b8-f5c6-426b-b89c-32dfb20dccbc	Издательский дом СТМЭГИ, 2023		Publishing house STMÉGI, 2023
+fdaf715f-fd0d-44ad-ad77-82fc9f141e8a	Семендуев А. Ш., Семендуева С. М.		Semenduyev A. Sh., Semenduyeva S. M.
+da7ee56d-a061-4320-8a89-2980e659d6bd	Гофноме эз жугьури э уруси.		Гофноме эз жугьури э уруси.
+91563126-3f6b-4a78-859c-7ee9fd594cfe	Горско-еврейско – русский словарь.		Gorsko‑Jewish‑Russian dictionary.
+b2960f5b-f3e4-4cd8-a440-862393295faa	Хадера, 2021		Khadera, 2021
+0ee20111-5c5a-40be-8eeb-b22543665646	Советские учебники		Soviet textbooks
+55be0bc4-51f3-4438-96e2-0bd623e64d8c	Lazarev L. Ələfbi.		Lazarev L. Alphabet.
+3146f1c3-65fe-4893-b138-e7d17ce4debb	Baku, 1934		Baku, 1934
+1fd604b4-0246-4ce2-8560-63ae328113df	Xanuxov I. Ələfbi.		Xanuxov I. Alphabet.
+884a6e05-601c-4ba0-a832-a862321425f2	Boku, 1937		Boku, 1937
+49f4e189-7829-4550-939a-3a2197d94f36	נתנב ל.		נתנב ל.
+dec3ac60-e4b9-42f0-9617-e56b18c32b97	נוג שכל.		נוג שכל.
+ef2a1a51-3554-40aa-a8f8-88ff7d150113	דו-ימין סל כונדי ארי עילהי.		דו-ימין סל כונדי ארי עילהי.
+e93051f1-91dc-439c-8297-8523cf402bb9	מכג-כל, 1927		מכג-כל, 1927
+54ef7cdf-95fa-4832-a6a2-4cc998c5bdaf	)Нисанов Л. Новая школа.		)Nisanov L. New School.
+596d9826-d9b0-4716-9370-2757471e41a8	Второй год обучения.		Second year of study.
+03e044a4-150a-418a-8645-41d30caf20f9	Для детей.		For children.
+c6f8a206-a26c-483c-85a7-116f52347cb9	Махачкала, 1927(		Makhachkala, 1927(
+b3dddaf8-e2f3-4c8c-a376-63e47d0550ea	בן-הררי (רבבינאביג՛)  מ., חיימביג՛ מ.		בן-הררי (רבבינאביג׳)  מ., חיימביג׳ מ.
+39ee1017-a8de-4cb5-98a8-9ffcc77fef75	בולק-דקי.		בולק-דקי.
+e01b6f10-10c3-48dc-9965-05ef62d863dd	תורה ארי עאילהיי ז՛והורון-דקי א זוהון ז՛והורי (תתי).		תורה ארי עאילהיי ז׳והורון-דקי א זוהון ז׳והורי (תתי).
+6a90dd8e-feb9-4309-b8cf-f4ebea6db5be	ארי דויצון סל כונדאישו.		ארי דויצון סל כונדאישו.
+2eaddde6-cd0f-4236-88c9-3bf154d5a574	בכו ,1927		בכו ,1927
+b30d5358-1f9f-4cde-bc8e-2fbc208c2b55	)Бен-Герарий (Рабинович) М., Хаймович М.		)Бен-Герарий (Рабинович) М., Хаймович М.
+3ee81515-1999-45d4-a6b4-2381c53baf78	Горный источник.		Mountain spring.
+79a5ddf6-42f7-43a0-aca0-143e2a26d5f9	Книга для горско-еврейских детей на еврейском языке (татском).		Book for mountain-Jewish children in the Jewish language (Tatar).
+8876f688-3931-4059-a522-7227fa0a4543	Для второго года обучения.		For the second year of study.
+ed3e780a-7cf3-423f-9d70-244953f3c93f	Баку, 1927(		Baku, 1927(
+fbd65cae-bbe5-4260-aded-5e3b1506b873	כודאיינאתאב זרכאויי.		כודאיינאתאב זרכאויי.
+409c256a-6d43-4760-8057-0907bd185917	אבאלי אבאת.		אבאלי אבאת.
+f7efecb1-6bf7-4733-8c93-6b1f882d094d	תארפאמיי תאתי אבאלימון סאל כונדאי.מאסכאב, 1928		תארפאמיי תאתי אבאלימון סאל כונדאי.מאסכאב, 1928
+21f159f2-57a8-443b-844b-1f5a0bcd4264	(Худайнатов З.		(Худайнатов З.
+c24ecb6e-6807-46b2-b4a3-912bc495d5a0	Первая азбука.		First alphabet.
+743df059-a2b0-4aca-ad2c-828a580380f0	Татский.		Tatar.
+b0a7fb8f-7a4f-4148-aea6-61bfa5855a29	Первый год обучения.		First year of study.
+2a007d7a-9246-48b5-9d3f-5ad3b3d884b6	Москва, 1928)		Moscow, 1928)
+bcf9ef80-650c-4ad7-84a1-5a96fa5ca491	Постсоветские учебники		Post‑Soviet textbooks
+1d9208d8-a055-492e-a12f-08bf93a9a2eb	Богданов Г.		Bogdanov G.
+5ef7db9f-d6b2-4cb4-b9b2-eccaeb8cfb02	Н.		N.
+101092c9-8042-4868-bcf3-f2b1353faad4	Учебник языка горских евреев джуури.		Textbook of the Juhuri language of the Mountain Jews.
+de63fd32-7a9c-4ebf-8c8c-7f6aea57868d	Центр «Sholumi», Израиль – Россия, 2019 (ч.		Center “Sholumi”, Israel – Russia, 2019 (part
+b2d3c9e3-5a1f-423f-a520-b6fb22f822b8	1), 2020 (ч.		1), 2020 (part
+d2443d64-67d7-4637-82c8-58159b3e4bfc	2)		2)
+d3427f39-c3a5-4fc2-b39d-6b0ef12ea5c6	Гаврилов Б. Г., Авшалумов Х. Д.		Gavrilov B. G., Avshalumov Kh. D.
+4924dd54-866a-4d0c-ad61-168b177a3526	Азбука.		Alphabet.
+c9101679-c023-483b-ab89-3aff58327f7b	Махачкала:		Makhachkala:
+87fbc7e2-bd47-4775-9323-c4715b1a2288	Учпедгиз, 1990		Uchpedgiz, 1990
+7e50063a-dd7e-40e2-b6f2-60f9ad672fd6	Изгияева А. Б. Зугьун тати.		Izgiayeva A. B. Zughun tati.
+c5047a2f-4830-4de6-85b9-2f7819d459f8	Эри 2-муьн класс.		Eri 2nd grade.
+41b4b220-0ba1-4730-921f-4b64d11af2f1	Махачкала:		Makhachkala:
+6b5e91ce-d916-4333-839e-e64b7a1014e3	Издательство НИИ педагогики, 2001		Publishing house of the Institute of Pedagogy, 2001
+b4bb082e-bde9-46ea-9efe-b5ba24b03355	Исаков Г.		Isakov G.
+4a3c950d-a60c-4d69-b57a-c6291d3dbc39	Əлифбой ҹуhури.М.:		Alphabet of Juhuri. M.:
+75dcd15f-ae45-4649-bf4a-09335086b9e7	Благотворительный фонд СТМЭГИ, 2020		Charitable foundation STMĖGI, 2020
+cc8b7831-62be-4d18-a839-2a97f8ba0ad6	Исаков Г.		Isakov G.
+6d3100d1-97a0-4208-afb2-318a55d55bc0	Зувун ҹуhури.		Zuvun Juhuri.
+c7c31299-8a9b-4503-9be6-d6d97f230256	Китоб нубойи.		Kitob nuboyi.
+92ed3f93-98f8-4eb4-8cb6-d33b6fdc1d8b	I hиссə.		I hissə.
+9851a460-138c-4729-b0ff-a1156693ab49	Язык джуури.		Juhuri language.
+f731e1d9-85e4-420c-af42-8b6283b6f652	Учебник.		Textbook.
+891fc79f-8502-4d76-bca5-79428560b264	Часть I. М.:		Part I. M.:
+15d84abd-3e23-40dc-a85b-200a2fac0d4c	Издательский дом СТМЭГИ, 2023		Publishing house STMÉGI, 2023
+1ff6f871-e0a9-4bd7-bfb7-aa8cb273a412	Прочее		Other
+041ad7fc-8703-47e5-92e5-e4e3071f7314	Агарунов 2018 – Агарунов М.		Agarunov 2018 – Agarunov M.
+aef783b3-c6e0-475f-98f2-4a8b4ea60c56	Культура и письменность горских евреев в первые два послереволюционные десятилетия // Горские евреи 2018.		Culture and literacy of mountain Jews in the first two post‑revolutionary decades // Mountain Jews 2018.
+1854ebe1-8ce5-4cb2-904c-fd2cbb773008	Стр. 208 – 227		pp. 208–227
+1bbacad6-8239-4dae-99da-a68e736ef665	Анисимов И.		Anisimov I.
+65a32cf3-3396-42fa-8480-da213a03c84a	Кавазские евреи-горцы // Иуда Черный, Василий Немирович-Данченко, Илья Анисимов.		Caucasian mountain Jews // Juda Cherný, Vasily Nemirovich‑Danchenko, Ilya Anisimov.
+f2b4d8d4-0e39-4f2d-ab18-a6899b02be00	Кавказские евреи-горцы.		Caucasian mountain Jews.
+5cf129cf-9176-49d2-a684-7ab288512133	Сборник.		Collection.
+a1def7d7-66bf-4563-a5b6-4e573175ebda	М., 2017.		M., 2017.
+de9a301e-780c-4a7d-af7a-da275e9071f6	Стр. 161 – 316		pp. 161–316
+35398816-69e9-46c0-9fdc-c57ab64a1a61	Беляев О.		Belyaev O.
+d5595edc-9b9b-4c0a-a13c-dc3415bceafc	И.		I.
+3991123a-5421-4497-8499-85a70f47f926	К развитию цели из образа действия: показатель vari в джалганском татском // Родной язык.		On the development of the goal from the mode of action: the vari marker in Jalgan Tatar // Native Language.
+a89ce476-36f0-437d-9596-c0aec4d958ff	Лингвистический журнал.		Linguistic Journal.
+e5f3350a-2d7c-47dc-8a25-6f43ee27affd	2025.		2025.
+8a6be461-6876-4b17-b6ec-5b797b663fd3	Вып.		Issue
+6d4c4967-51db-4927-a731-04d6755d7a5a	2.		2.
+225582bc-598e-4d07-876f-b4be52e62ca8	Стр. 8 – 56.		pp. 8–56.
+5279222a-ce55-439a-8206-9dfb6756dc85	Грюнберг А. Л. Язык североазербайджанских татов.		Grünberg A. L. Language of the North Azerbaijani Tatars.
+c3ea52f9-f6ec-42dc-a491-ebe012d59f72	Л.:		L.:
+33fd2459-704f-4430-9e9a-b2c3cad2ed30	Изд-во АН СССР, 1963		USSR Academy of Sciences Publishing House, 1963
+37069d35-f0a0-4d54-9843-63d010c34ad5	Грюнберг А. Л., Давыдова Л. Х. Татский язык // Основы иранского языкознания.		Grünberg A. L., Davydova L. Kh. Tat language // Foundations of Iranian Linguistics.
+af669027-3a20-4b33-8df6-17cf0e682a01	Новоиранские языки.		New Iranian languages.
+a3acd2ac-0f13-4f82-9e0c-f9a3256610c6	Западная группа, прикаспийские языки.		Western group, Caspian languages.
+89c4ed18-4c54-415d-a7d4-4ac432721ee5	М.:		M.:
+2d540c27-a508-433c-92bb-f6c83db5f8de	Наука, 1982.		Science, 1982.
+a0040e86-21f3-42f1-a288-5742fd52ee4a	Стр. 232 – 286		pp. 232–286
+66540eaa-f0a1-4598-aa90-5da8a596d7b3	Грюнберг А. Л. Татский язык // Языки мира.		Grünberg A. L. Tat language // Languages of the World.
+ab606e6c-3b26-4686-ab86-b7dfe397a2c0	Иранские языки.		Iranian languages.
+7b11103b-efca-40fc-be10-8a60b18a69a6	I. Юго-западные иранские языки.		I. Southwest Iranian languages.
+b43eeb9f-7200-44e4-949b-8e91758bae66	М., 1997.		Moscow, 1997.
+5894369e-0534-454c-b616-16f95baefc9c	Стр. 141—154		pp. 141–154
+731937dc-a6d7-4f0c-9070-029023fc68f1	Ефимов В.А., Керимова А.А., Молчанова Е.К., Пирейко Л.А., Расторгуева В.С., Эдельман Д.И.		Efimov V.A., Kerimova A.A., Molchanova E.K., Pireyko L.A., Rastorgueva V.S., Edelman D.I.
+5348be0e-ee51-4282-8947-972488c4f85e	Опыт историко-типологического исследования иранских языков.		Experience of historical‑typological research of Iranian languages.
+227a07a6-e8a5-4a12-8773-44124370c281	Том 2:		Vol. 2:
+aa0f856a-0eb5-433a-8951-b7b34eb11b1b	Эволюция грамматических категорий.		Evolution of grammatical categories.
+81e59269-7c4f-4b9c-9a06-a203ba807e2a	М.:		M.:
+1c9c544e-e389-4330-ae82-b87a9b92ad1a	«Наука», 1975		"""Science"", 1975"
+2b81b18d-57dc-4e2c-8be8-661446423e4a	Миллер Б. В. Таты, их расселение и говоры.		Miller B. V. Tatars, their settlement and dialects.
+df4d95f7-0630-441c-9f93-54bb7d07d448	Материалы и вопросы.		Materials and questions.
+e84951b0-f3b6-4eb2-b8e8-d0e7e92809a8	Баку, 1929		Baku, 1929
+f5f6deed-964a-4afd-9a39-228fa5e235d7	Миллер Б. В. О кубинском говоре татского наречия горских евреев Кавказа.		Miller B. V. On the Kuban dialect of the Tatar variety of the mountain Jews of the Caucasus.
+e016d5ff-9e2b-4ae4-a49d-c489e09975d8	Л., 1929		L., 1929
+e1b42f52-7f36-425c-b3ae-9f690a0846eb	Миллер В. Ф.		Miller V. F.
+76279ca3-34a7-4cea-847e-497a855bd5ff	Материалы для изучения еврейско-татского языка.		Materials for the study of the Jewish‑Tatar language.
+81cff882-91a4-4a90-8eda-79528b381f62	Введение, тексты и словарь.		Introduction, texts and dictionary.
+8d4ad03e-730e-4a12-89f9-3dd22714a910	СПб, 1892		St. Petersburg, 1892
+921bce37-8ee0-430c-ae1f-902649ac6532	Миллер В. Ф.		Miller V. F.
+7f8a4d6a-188f-40dc-a56a-baa8937b8393	Очерки фонетики еврейского-татского наречия.		Sketches of the phonetics of the Jewish‑Tatar dialect.
+c404e982-fd6e-4c65-adfa-9da2f632ceb9	М., 1900		M., 1900
+83ba7e0f-2711-4c84-9c90-553d7545aae5	Миллер В. Ф.		Miller V. F.
+e2bba7e8-8ca1-4f34-bb32-c5901371043d	Очерь морфологии еврейско-татского наречия.		Sketch of the morphology of the Jewish‑Tatar dialect.
+078444fc-a9d6-4614-81ff-e05f0ee32317	М., 1901		M., 1901
+32eaef8c-3e1d-4141-aec8-ddc829e77311	Миллер в.		Miller v.
+6ff56b8c-2159-4655-94f1-76589be805e4	Ф.		F.
+ab55c673-38b3-4625-8624-19d7d7e69b42	Татские этюды.		Tatar studies.
+d4bbd7db-ab0f-4a57-a9f9-f61598b36f2b	Часть II.		Part II.
+37f00ee1-d54c-4c00-945c-bb0870a54369	Опыт грамматики татского языка.		A Study of Tatar Grammar.
+5976cfd7-45e8-4b4f-865c-16f11c7c692a	М., 1907		M., 1907
+dec4f39c-8878-4f9f-9635-2543a6707462	Назарова Е.		Nazarova E.
+b762805a-0aff-401e-82ba-c31b83e25dfa	М.		M.
+e72385ec-296f-437e-83b0-2c657dd61349	О морфологических средствах выражения атрибутивности в татском языке // Морфемный строй дагестанских языков.		On morphological means of expressing attributiveness in the Tatar language // Morphological structure of Dagestanian languages.
+afc78281-bee4-48b9-a6f2-83f80079c1aa	Махачкала, 1988.		Makhachkala, 1988.
+83bdd006-0077-43c8-89bd-b20ffa74dd2f	Стр. 127 – 147		pp. 127–147
+40a05470-cd8d-4bc6-9aa8-ce3a0224377f	Назарова Е.		Nazarova E.
+cc52dace-4e7b-43a3-8e74-351b6d7b2640	М.		M.
+791be046-b446-4ab9-b30a-2c92f37561de	О различиях в системах атрибутивных словосочетаний в диалектах татского языка // Диалектологическое изучение дагестанских языков.		On differences in systems of attributive phrases in dialects of the Tatar language // Dialectological study of Dagestanian languages.
+78239300-3fdf-43d5-a50b-df0cdebeb2df	Махачкала, 1992.		Makhachkala, 1992.
+4bd5dfd3-1809-4b65-b856-03d03f0f821c	Стр. 163 – 171		pp. 163–171
+dba21947-62b9-4ce1-9a4e-2a9065c3ae1c	Назарова Е.		Nazarova E.
+373b3412-b99e-46e8-b93c-83456fd5753d	М.		M.
+c482c4c2-722a-433d-881a-7f08e7eb12e6	О грамматической категории «атрибутивность» в еврейско-татском языке // Judaica Rossica.		On the grammatical category “attributiveness” in the Jewish‑Tatar language // Judaica Rossica.
+2cefabd9-3a66-4bc5-9cce-d147954dd8d6	Вып.		Issue
+fadd368d-4e54-4e70-9720-2419a7dcf072	2.		2.
+cc57fb76-3d71-4c2b-a464-79d38dfe674d	М.:		M.:
+676de22f-65e0-479c-89b9-f0fe4c5a94fa	Изд-во РГГУ, 2002.		RGGU Publishing House, 2002.
+efab24ef-5dbe-44de-928a-c5a5563aa9a1	Стр. 182 – 199		pp. 182–199
+c22aaebe-a3f5-42ec-9a19-7632d757c9bf	Назарова Е.		Nazareva E.
+0b8962c3-e150-452d-b8c5-0ffc009a6816	М.		M.
+024efd66-2e00-409e-b6c4-66d1dc43b370	Язык джуури и этнокультурная идентичность горских евреев в СССР и в современной России: изменения и новации // Ежегодник Евро-Азиатского еврейского конгресса.		Juhuri language and the ethno-cultural identity of the Mountain Jews in the USSR and modern Russia: changes and innovations // Yearbook of the Euro-Asian Jewish Congress.
+a356cc92-4fe8-433c-aa14-15c62dd69855	2021		2021
+eaf7446b-dd1d-4ee6-935f-ed6bb6d5917d	Назарова Е.М.		Nazareva E.M.
+c0bdbece-b265-43d9-adae-3572b3cfd800	Терминологическая ситуация с названием языка горских евреев // Judaic-Slavic Journal.		The terminological situation regarding the name of the Mountain Jews' language // Judaic-Slavic Journal.
+aaf0e93d-d0fe-4299-86ef-081c3c29eabb	№ 2 (4), 2020.		No. 2 (4), 2020.
+f1d97a8c-b4d2-4cb1-9bde-4b7b684f48e1	Стр. 60-85		pp. 60-85
+db7833c1-c818-41a3-95f1-16749a9e0a64	Назарова Е.		Nazareva E.
+ad85074e-5fb3-4f0a-bf9f-66cc670093ad	М., Якубова С. А. Концепция сохранения языка джуури в России как рабочая модель возрождения языка и этнокультурной идентичности народа // Сборник материалов всероссийской стратегической сессии по укреплению гражданской идентичности.		M., Yakubova S. A. Concept of preserving the Juhuri language in Russia as a working model for the revival of the language and the ethno-cultural identity of the people // Collection of materials of the All-Russian strategic session on strengthening civil identity.
+406b1368-eedc-4d8a-a052-681f6b09def7	М., 2023.		M., 2023.
+c45ee6c7-69e2-4df3-a420-9be0247b9c7c	Стр. 159 – 177		pp. 159–177
+d862acd4-72b5-4b42-a947-d1c8fab519b4	Немирович-Данченко В. Воинствующий Израиль // Иуда Черный, Василий Немирович-Данченко, Илья Анисимов.		Nemirovich-Danchenko V. Warring Israel // Juda Cherny, Vasily Nemirovich-Danchenko, Ilya Anisimov.
+6a51c93d-27d9-46cb-9a7d-5d34c666b917	Кавказские евреи-горцы.		Caucasian Mountain Jews.
+39a0b3c2-6e32-46ac-b81a-26fd77ef82fb	Сборник.		Collection.
+8c1c9831-ba49-4d13-810a-851c8b182bfe	М., 2017.		M., 2017.
+848d5172-88b2-41a7-a39d-7c7b2181a112	Стр. 63 – 158		pp. 63–158
+868f5c9c-a5dd-43a2-954f-98cbde889f74	Соколова В. С. Новые сведения по фонетике иранских языков // Иранские языки.		Sokolova V. S. New data on the phonetics of Iranian languages // Iranian Languages.
+e7f7f617-969b-4523-a0a2-53f828cc5f29	Вып.		Vol.
+f069f341-064d-4d8f-914e-2d786156a041	II.		II.
+24b2d937-5291-4396-9982-e804f879c923	Материалы и исследования по иранским языкам.		Materials and research on Iranian languages.
+33226c0f-f347-4b8f-8af1-1b2f6335eb87	Под ред.		Edited by
+dd3d853b-6b27-4bea-917a-cf68af70748d	В. И.		V. I.
+bcae0b68-9db0-4e1b-abeb-a991c31bbb1e	Абаева.		Abaeva.
+f3860442-420a-416a-8f2e-8b1dc7ec500b	№6.		No. 6.
+90071223-2e1d-4655-883b-6f6c9b9b4a9d	М.		M.
+40a2b1b1-bc04-4173-b8f7-68bb2c838d12	– Л., 1950.		– L., 1950.
+a327a877-39af-4553-9891-d7ffbc75f743	Стр. 5 – 28		pp. 5–28
+24ecf66a-de51-4512-803d-409e2bf05037	Соколова В. С. Татский язык // Очерки по фонетике иранских языков.		Sokolova V. S. Tati language // Essays on the phonetics of Iranian languages.
+07bb3555-491f-4982-a95c-cb37c86fe5cc	Вып.		Issue
+4e15bebc-d515-4a0e-8d87-540d5f5e60ca	1.		1.
+c6f751ee-1d7e-4be7-a00e-f9619eef7221	Л., 1953.		L., 1953.
+b7c07fee-3f9b-40c1-8aad-3189a365f440	Стр. 122 – 147		pp. 122–147
+7031220f-3640-4429-8270-6571c54fa19d	Черный И.		Cherny I.
+c62e5ac9-e2cd-44f6-a0e5-54f29eb64663	Горские евреи Терской области.		Mountain Jews of the Terek region.
+af28db0a-994d-4828-aaba-05dd72d32266	Краткие исторические сведения // Иуда Черный, Василий Немирович-Данченко, Илья Анисимов.		Brief historical information // Iuda Cherny, Vasily Nemirovich-Danchenko, Ilya Anisimov.
+2c8bada3-dc52-4954-97ed-95270eb19f24	Кавказские евреи-горцы.		Caucasian mountain Jews.
+6173eaec-5ae2-4f9a-a9e0-0f10f1aa320c	Сборник.		Collection.
+dcbbfffc-b40a-44f8-be0d-badff549e8d8	М., 2017.		M., 2017.
+9a8ba084-b062-40b5-94e4-769d7c1bb9c3	Стр. 7 – 60		pp. 7–60
+22f12e94-124e-4818-abcb-8b2a3c267363	Членов М.		Members M.
+d80e6810-c0b3-4845-afb5-285ae5f98af3	А. Между Сциллой деиудаизации и Харибдой сионизма: горские евреи в XX веке // Диаспоры.		A. Between Scylla of dejudization and Charybdis of Zionism: Mountain Jews in the 20th century // Diasporas.
+0d147455-d8e6-4659-84ea-ae1cd8d895fe	Вып.		Pub.
+cab4f59a-1d79-476e-91a8-f07d93625979	3.		3.
+743da206-1676-4ac8-b2a2-a90c64733c59	2000.		2000.
+de47474e-dc07-49e5-9303-c51db2270463	Стр. 174 – 197		pp. 174–197
+38179caa-83fb-401a-809b-623286ef79bb	Шор Р.		Shor R.
+19b83fab-b2c8-453c-9e6f-aa0c14c88aa7	О.		O.
+c4acefc7-46db-4492-b326-4e3f666262bf	О спорных вопросах в исследовании консонантизма говора татов-евреев // Языки Северного Кавказа и Дагестана.		On controversial issues in the study of consonantism of the Tat‑Jewish dialect // Languages of the North Caucasus and Dagestan.
+5e033755-6d28-4825-a3e4-a60efa543e24	Вып.		Pub.
+5b662a70-e168-40ed-b1e4-bc3cba9545d1	II.		II.
+29f1af1d-a959-484c-ac3e-eee930ea591d	М.		M.
+47b2852f-0f76-4384-a46b-bc329fd789c1	– Л., 1949.		– L., 1949.
+71e91ce0-d6f2-4e2d-960b-cb460474519e	Стр. 127 – 139		pp. 127–139
+b96c55b8-2b83-4968-a8cc-43c29bf09343	Юсуфова Ф.		Yusupova F.
+a2522564-f671-4282-885b-0bda9f13766c	Золотые россыпи.		Golden deposits.
+6bee6089-8518-46db-a47a-aed54553452c	Горский – иврит.		Gorsky – Hebrew.
+5cdbeeb9-a8b3-4216-ba38-8bfaa3058648	Зарhой сүрхи.		Зарhой сүрхи.
+f5c3034e-9007-45e6-b737-fde4f0f9f503	Ҹуhури – иврит.		Ҹуhури – иврит.
+17fd53c6-c7d1-4893-bf24-bf5c4a144d22	Толковый словарь.		Explanatory dictionary.
+5e2bc261-8d95-4483-94bf-df21ff856ca4	Хайфа, Кирьят-Бялик, 2009		Haifa, Kiryat Bialik, 2009
+125b27c3-78a3-4f35-b1b5-3981345147b4	Anisimov N. Grammatik zuhun tati.		Anisimov N. Grammatik zuhun tati.
+08ab4369-8233-4dd4-a12d-df89b4e00233	Maskov, 1932		Maskov, 1932
+63daff65-803c-43ab-bda6-bea892a3c9f2	Borjan H.		Borjan H.
+af1828f3-d73e-4aac-a751-9a1804b16c76	Judeo-Iranian Languages // Handbook of Jewish Languages/ Ed. by L. Kahn, A. D.		Judeo-Iranian Languages // Handbook of Jewish Languages/ Ed. by L. Kahn, A. D.
+a32d0968-ec9e-41f6-90ac-8f6d084f25ae	Hacıyev M.		Hacıyev M.
+b332d36b-783c-4b17-99ef-4cb1822f720f	Azərbaycan tatlarının dili.		The language of Azerbaijani Tats.
+fe143bb4-4209-46c9-83b0-16e859504594	Mammadova N. Eléments de description et documentation du tat de l’Apshéron, langue iranienne d’Azerbaïdjan.		Mammadova N. Eléments de description et documentation du tat de l’Apshéron, langue iranienne d’Azerbaïdjan.
+764221d7-b12d-4674-ae94-ab0a102e79a8	Linguistique.		Linguistics.
+c70b8d76-2ace-4db3-8b0b-4f304a2596dd	Université Sorbonne Paris Cité, 2017		University Sorbonne Paris Cité, 2017
+dd5d9af3-1c60-4785-9f6c-853175ee5728	Suleymanov M.		Suleymanov M.
+e3b45881-e608-4ec1-bfe4-c7f7d9e869da	A Grammar of Şirvan Tat.		A Grammar of Şirvan Tat.
+1d653304-773a-47ab-bc1c-78a33250bfd5	Wiesbaden 2020		Wiesbaden 2020
+ca353969-282f-470e-91c8-9fec78a13eff	Shalem V. n.d.		Shalem V. n.d.
+30a21b8b-5ddf-4237-a26a-5696071d9349	Judeo-Tat/Juhuri.		Judeo-Tat/Juhuri.
+edac947d-4f3c-4ff0-8a91-8183a848a50f	Jewish Language Website, Sarah Bunin Benor (ed.).		Jewish Language Website, Sarah Bunin Benor (ed.).
+fe387225-08a8-4325-a944-394e9f1b63fe	Los Angeles:		Los Angeles:
+8c59025a-58fb-4e12-a521-51beb4308e67	Jewish Language Project.		Jewish Language Project.
+bb62e22c-d1f2-4bfe-b88d-b7ba5e1035f4	https://www.jewishlanguages.org/judeo-tat-juhuri		https://www.jewishlanguages.org/judeo-tat-juhuri
+aba36135-4a5f-40bc-8bc8-d848228a147c	https://www.jewishlanguages.org/judeo-tat-juhuri		https://www.jewishlanguages.org/judeo-tat-juhuri
+8b696b5e-23b1-4b45-b2f0-765a2888d8ea	זנד מ.		Zand M.
+7680aa11-ec0d-4812-a9de-54687e8cd782	הרב יעקב יצחקי אוצר המילים של השפה התאתית-יהודית.		Rabbi Yaakov Yitzhaki, lexicon of the Tati-Jewish language.
+6cc065bf-ac2e-480c-ac44-8be57fecf8cb	ירשלים, 2016		Jerusalem, 2016
+3f9028ee-9a74-4b4f-9a8b-ad5f20e55573	(Занд М.		(Zand M.
+58422e1d-72ec-44cb-8058-09b76eaa00be	Рабби Иаков Ицхаки.		Rabbi Yaakov Yitzhaki.
+1c823faa-424f-40d0-aa9f-8a1024e31b25	Словарь татско-еврейского языка.		Dictionary of the Tati-Jewish language.
+2aac72de-a09e-4277-b555-0eb48f3035bb	Иерусалим, 2016)		Jerusalem, 2016)

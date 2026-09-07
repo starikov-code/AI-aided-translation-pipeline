@@ -1,0 +1,32 @@
+# Virtual environment
+env/
+venv/
+.venv/
+
+# PyCharm IDE files (optional — commit if shared IDE settings needed)
+.idea/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+
+# temp files
+test_translated.sdlproj
+test_segments.bak.tsv
+test_segments_new.tsv
