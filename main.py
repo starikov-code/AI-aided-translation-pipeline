@@ -39,9 +39,12 @@ def q(local: str, ns: str = XLIFF_NS) -> str:
 
 
 INLINE_TAGS = {"bpt", "ept", "ph", "it", "x"}
+PAIRED_TAGS = {"g"}                      # container-style inline tags
 
-# Placeholder format: [[n:TYPE]] or [[n:TYPE:extra]]
-PLACEHOLDER_RE = re.compile(r"\[\[(\d+):(BPT|EPT|PH|IT|X)(?::([^\]]*))?\]\]")
+# [[n:G:...]] opens a <g>; [[n:/G]] closes it. extra = serialized attributes.
+PLACEHOLDER_RE = re.compile(
+    r"\[\[(\d+):(BPT|EPT|PH|IT|X|G|/G)(?::([^\]]*))?\]\]")
+
 
 log = logging.getLogger("sdlxliff_tool")
 
