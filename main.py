@@ -200,18 +200,30 @@ class SdlxliffTool:
                 f"Malformed placeholder at offset {m.start()}: "
                 f"{text[m.start():m.start() + 20]!r}")
         opens, closes = set(), set()
+        g_stack: List[str] = []
         for m in PLACEHOLDER_RE.finditer(text):
             pid, kind = m.group(1), m.group(2)
             if kind == "BPT":
                 opens.add(pid)
             elif kind == "EPT":
                 closes.add(pid)
+            elif kind == "G":
+                if pid in g_stack:
+                    problems.append(f"G [[{pid}]] opened twice without close")
+                g_stack.append(pid)
+            elif kind == "/G":
+                if not g_stack or g_stack[-1] != pid:
+                    problems.append(
+                        f"/G [[{pid}]] does not match open G (stack: {g_stack[-3:]})")
+                else:
+                    g_stack.pop()
+        if g_stack:
+            problems.append(f"Unclosed G tag(s): {g_stack}")
         for pid in closes - opens:
             problems.append(f"EPT [[{pid}]] has no matching BPT")
         for pid in opens - closes:
             problems.append(
                 f"BPT [[{pid}]] has no matching EPT (may be intentional)")
-        return problems
 
     # ------------------------------------------------------------------ #
     #  INJECTION                                                         #
