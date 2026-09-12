@@ -108,10 +108,15 @@ class SdlxliffTool:
             extra = elem.get("ctype", "ph")
         elif tag == "IT":
             extra = elem.get("pos", "it")
+        elif tag == "G":
+            # Preserve attributes that carry formatting/rendering info.
+            keep = ["id", "ctype", "clone", "xid"]
+            extra = " ".join(
+                f'{k}="{elem.get(k)}"' for k in keep if elem.get(k) is not None
+            )
         return seg.register(elem, tag, extra)
 
     def _serialize(self, container: etree._Element, seg: Segment) -> str:
-        """Serialize contents to masked text; tags become placeholders."""
         parts: List[str] = []
         if container.text:
             parts.append(container.text)
@@ -121,6 +126,12 @@ class SdlxliffTool:
                 parts.append(self._serialize(child, seg))
             elif tag in INLINE_TAGS:
                 parts.append(self._inline_to_placeholder(child, seg))
+            elif tag in PAIRED_TAGS:
+                ph_open = self._inline_to_placeholder(child, seg)
+                parts.append(ph_open)
+                parts.append(self._serialize(child, seg))  # recurse INSIDE
+                # matching close placeholder reuses the same id number:
+                parts.append(f"[[{seg.counter}:/G]]")
             else:
                 log.debug("Recursing into <%s> in seg %s", tag, seg.seg_id)
                 parts.append(self._serialize(child, seg))
