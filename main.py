@@ -224,6 +224,13 @@ class SdlxliffTool:
         for pid in opens - closes:
             problems.append(
                 f"BPT [[{pid}]] has no matching EPT (may be intentional)")
+            # --- G-set check: every /G id must correspond to some G id ---
+            g_ids = {m.group(1) for m in PLACEHOLDER_RE.finditer(text)
+                     if m.group(2) == "G"}
+            for m in PLACEHOLDER_RE.finditer(text):
+                if m.group(2) == "/G" and m.group(1) not in g_ids:
+                    problems.append(f"/G [[{m.group(1)}]] has no matching G")
+            return problems
 
     # ------------------------------------------------------------------ #
     #  INJECTION                                                         #
@@ -243,14 +250,26 @@ class SdlxliffTool:
             tgt.text = None
         return tgt
 
-    def _build_target_content(self, tgt_container: etree._Element,
-                              seg: Segment, translated: str) -> bool:
-        """
-        Rebuild target content: text runs from translated text, tag
-        elements deep-copied from source via the placeholder map.
-        """
+    def _build_target_content(self, tgt_container, seg, translated) -> bool:
         ph_map = seg.placeholder_map
-        parts: List[Tuple[str, Optional[str]]] = []
+
+        # Pre-validate G balance (fail BEFORE mutating the tree)
+        stack: List[str] = []
+        for m in PLACEHOLDER_RE.finditer(translated):
+            pid, kind = m.group(1), m.group(2)
+            if kind == "G":
+                stack.append(pid)
+            elif kind == "/G":
+                if not stack or stack[-1] != pid:
+                    log.error("Seg %s: /G [[%s]] mismatched (stack %s)",
+                              seg.seg_id, pid, stack)
+                    return False
+                stack.pop()
+        if stack:
+            log.error("Seg %s: unclosed G %s", seg.seg_id, stack)
+            return False
+
+        parts: List[Tuple[str, str]] = []
         pos = 0
         for m in PLACEHOLDER_RE.finditer(translated):
             if m.start() > pos:
@@ -262,29 +281,45 @@ class SdlxliffTool:
 
         for kind, val in parts:
             if kind == "tag" and val not in ph_map:
-                log.error("Seg %s: unknown placeholder %s in AI output",
-                          seg.seg_id, val)
+                log.error("Seg %s: unknown placeholder %s", seg.seg_id, val)
                 return False
+
+        stack: List[etree._Element] = [tgt_container]
+
+        def cur() -> etree._Element:
+            return stack[-1]
 
         def append_text(text: str) -> None:
             if not text:
                 return
-            if len(tgt_container) == 0 and not tgt_container.text:
-                tgt_container.text = text
+            c = cur()
+            if len(c) == 0 and not c.text:
+                c.text = text
             else:
-                last = tgt_container[-1]
+                last = c[-1]
                 last.tail = (last.tail or "") + text
-
-        def append_tag(ph: str) -> None:
-            new_elem = copy.deepcopy(ph_map[ph])
-            tgt_container.append(new_elem)
-            new_elem.tail = None
 
         for kind, val in parts:
             if kind == "text":
                 append_text(val)
+                continue
+            pid, gkind = PLACEHOLDER_RE.match(val).group(1), PLACEHOLDER_RE.match(val).group(2)
+            if gkind == "/G":
+                if len(stack) > 1:
+                    stack.pop()
+                continue
+            new_elem = copy.deepcopy(ph_map[val])
+            if gkind == "G":
+                # strip source skeleton: children/text will be re-authored
+                for ch in list(new_elem):
+                    new_elem.remove(ch)
+                new_elem.text = None
+                cur().append(new_elem)
+                new_elem.tail = None
+                stack.append(new_elem)
             else:
-                append_tag(val)  # type: ignore[arg-type]
+                cur().append(new_elem)
+                new_elem.tail = None
 
         used = {v for k, v in parts if k == "tag"}
         missing = set(ph_map) - used
