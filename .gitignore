@@ -30,3 +30,6 @@ build/
 test_translated.sdlproj
 test_segments.bak.tsv
 test_segments_new.tsv
+test_translated.ProjectFiles/
+# re-faced pys
+backup/

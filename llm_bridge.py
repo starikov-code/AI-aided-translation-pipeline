@@ -70,7 +70,22 @@ import urllib.request
 import urllib.error
 import json
 
-PLACEHOLDER_RE = re.compile(r"\[\[(\d+):(BPT|EPT|PH|IT|X)(?::([^\]]*))?\]\]")
+PLACEHOLDER_RE = re.compile(
+    r"\[\[(\d+):(BPT|EPT|PH|IT|X|G|/G)(?::([^\]]*))?\]\]")
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    # Fallback: parse .env manually if python-dotenv isn't installed
+    from pathlib import Path as _Path
+    _env = _Path(__file__).with_name(".env")
+    if _env.exists():
+        for _line in _env.read_text(encoding="utf-8").splitlines():
+            _line = _line.strip()
+            if _line and not _line.startswith("#") and "=" in _line:
+                _k, _, _v = _line.partition("=")
+                os.environ.setdefault(_k.strip(), _v.strip().strip('"').strip("'"))
 
 # ============================================================================
 # Provider presets (OpenAI-compatible endpoints)
@@ -177,7 +192,6 @@ def placeholder_signature(text: str) -> Optional[frozenset]:
 
 
 def validate_translation(source: str, translated: str) -> List[str]:
-    """Compare placeholder sets between source and translation."""
     problems: List[str] = []
     src_sig = placeholder_signature(source)
     if src_sig is None:
@@ -196,7 +210,21 @@ def validate_translation(source: str, translated: str) -> List[str]:
             problems.append(f"missing placeholders: {sorted(missing)}")
         if extra:
             problems.append(f"unknown placeholders: {sorted(extra)}")
+    # G nesting balance
+    stack: list = []
+    for m in PLACEHOLDER_RE.finditer(translated):
+        kind = m.group(2)
+        if kind == "G":
+            stack.append(m.group(1))
+        elif kind == "/G":
+            if not stack or stack[-1] != m.group(1):
+                problems.append("mismatched /G in translation")
+                break
+            stack.pop()
+    if stack:
+        problems.append(f"unclosed G tags: {stack}")
     return problems
+
 
 
 # ============================================================================
@@ -243,14 +271,26 @@ SYSTEM_PROMPT = """You are a professional translator. Translate the user's \
 text from {src_lang} to {tgt_lang}.
 
 Rules:
-1. If the text contains placeholders like [[1:BPT]], [[2:PH:tag]], \
-[[3:X:x-bd]], you MUST copy each placeholder into the translation exactly \
-as-is: same numbering, same type, same extra part. Never translate, rename, \
-merge, split, drop or invent placeholders.
+1. The text contains special placeholders enclosed in double square brackets, \
+such as [[1:BPT]], [[2:EPT]], [[3:PH:tag]], [[4:X:x-bd]], and paired group \
+placeholders [[5:G:ctype="bold"]] ... [[5:/G]]. You MUST copy every \
+placeholder into the translation exactly as-is: same numbering, same type, \
+and same extra part after the second colon (if present). Never translate, \
+rename, renumber, merge, split, drop, or invent placeholders.
+   - Opening group placeholders look like [[n:G:...]] and their matching \
+closing placeholders look like [[n:/G]] — with a slash before G and NO \
+extra part after it. Always reproduce both members of each pair and keep \
+the number matching.
 2. Placeholders represent inline formatting tags. Their POSITION in the \
 sentence may change to match natural {tgt_lang} word order, but paired \
-[[n:BPT]] ... [[n:EPT]] must both appear and must not overlap incorrectly.
-3. Translate only the human-readable text between placeholders.
+[[n:BPT]] ... [[n:EPT]] and [[n:G:...]] ... [[n:/G]] must both appear, in \
+the correct order (open before close), and must not overlap incorrectly. \
+Text placed between [[n:G:...]] and its [[n:/G]] is the text carrying that \
+formatting — put inside it only the words that are formatted in the source.
+3. Translate only the human-readable text between placeholders. Never \
+output a placeholder adjacent to another placeholder if there was text \
+between them in the source, and never insert text directly inside a \
+placeholder's brackets.
 4. Output ONLY the translation — no explanations, no quotes around it, \
 no original text."""
 
@@ -325,7 +365,30 @@ def call_anthropic(texts: List[tuple], args, src_lang: str, tgt_lang: str) -> di
     }, payload)
     content = "".join(b.get("text", "") for b in data.get("content", []))
     return parse_batch_response(content, [i for i, _ in texts])
-
+# ============================================================================
+# G-pair repair
+# ============================================================================
+def repair_g_pairs(text: str) -> str:
+    """Rewrite /G placeholders to match the most recent unclosed G,
+    pairing by nesting order (close numbers are functionally irrelevant)."""
+    parts = re.split(r"(\[\[\d+:(?:G|/G)\]\])", text)
+    stack: list = []          # numbers of currently-open Gs
+    out = []
+    for p in parts:
+        m = re.fullmatch(r"\[\[(\d+):(G|/G)\]\]", p)
+        if not m:
+            out.append(p)
+            continue
+        num, kind = m.group(1), m.group(2)
+        if kind == "G":
+            stack.append(num)
+            out.append(p)
+        else:  # /G
+            if stack:
+                out.append(f"[[{stack.pop()}:/G]]")   # renumbered to correct open
+            else:
+                out.append(p)                          # stray close: leave, validator will flag
+    return "".join(out)
 
 # ============================================================================
 # Main loop
@@ -425,8 +488,8 @@ def main() -> int:
                 if not probs:
                     row.translated = text
                     return True
-                log.warning("Seg %s: validation failed (attempt %d): %s",
-                            row.seg_id, attempt + 1, "; ".join(probs))
+                log.warning("Seg %s: validation failed (attempt %d): %s | RAW: %r",
+                            row.seg_id, attempt + 1, "; ".join(probs), text)
             except Exception as e:  # noqa: BLE001
                 log.warning("Seg %s: API error (attempt %d): %s",
                             row.seg_id, attempt + 1, e)
@@ -454,8 +517,9 @@ def main() -> int:
                 translated_count += 1
             elif text:
                 # retry individually with fresh context
-                log.warning("Seg %s failed batch validation (%s) — "
-                            "retrying solo", r.seg_id, "; ".join(probs))
+                log.warning("Seg %s failed batch validation (%s) | RAW: %r",
+                            r.seg_id, "; ".join(probs), text)
+
                 if translate_one(r):
                     translated_count += 1
                 else:

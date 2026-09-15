@@ -108,12 +108,7 @@ class SdlxliffTool:
             extra = elem.get("ctype", "ph")
         elif tag == "IT":
             extra = elem.get("pos", "it")
-        elif tag == "G":
-            # Preserve attributes that carry formatting/rendering info.
-            keep = ["id", "ctype", "clone", "xid"]
-            extra = " ".join(
-                f'{k}="{elem.get(k)}"' for k in keep if elem.get(k) is not None
-            )
+
         return seg.register(elem, tag, extra)
 
     def _serialize(self, container: etree._Element, seg: Segment) -> str:
