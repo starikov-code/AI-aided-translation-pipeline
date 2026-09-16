@@ -117,18 +117,20 @@ class SdlxliffTool:
             parts.append(container.text)
         for child in container:
             tag = etree.QName(child).localname
+            log.debug("Handling <%s> in seg %s", tag, seg.seg_id)
             if tag == "mrk":
                 parts.append(self._serialize(child, seg))
             elif tag in INLINE_TAGS:
                 parts.append(self._inline_to_placeholder(child, seg))
             elif tag in PAIRED_TAGS:
                 ph_open = self._inline_to_placeholder(child, seg)
+                ph_close = f"[[{seg.counter}:/G]]"  # capture id BEFORE recursion
                 parts.append(ph_open)
-                parts.append(self._serialize(child, seg))  # recurse INSIDE
-                # matching close placeholder reuses the same id number:
-                parts.append(f"[[{seg.counter}:/G]]")
+                parts.append(self._serialize(child, seg))
+                seg.placeholder_map[ph_close] = child
+                parts.append(ph_close)
             else:
-                log.debug("Recursing into <%s> in seg %s", tag, seg.seg_id)
+                # Unknown element: recurse into it to be safe
                 parts.append(self._serialize(child, seg))
             if child.tail:
                 parts.append(child.tail)
@@ -288,14 +290,14 @@ class SdlxliffTool:
             if kind == "text":
                 append_text(val)
                 continue
-            pid, gkind = PLACEHOLDER_RE.match(val).group(1), PLACEHOLDER_RE.match(val).group(2)
+            m = PLACEHOLDER_RE.match(val)
+            pid, gkind = m.group(1), m.group(2)
             if gkind == "/G":
                 if len(stack) > 1:
                     stack.pop()
                 continue
             new_elem = copy.deepcopy(ph_map[val])
             if gkind == "G":
-                # strip source skeleton: children/text will be re-authored
                 for ch in list(new_elem):
                     new_elem.remove(ch)
                 new_elem.text = None
