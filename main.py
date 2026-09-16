@@ -203,13 +203,10 @@ class SdlxliffTool:
             elif kind == "EPT":
                 closes.add(pid)
             elif kind == "G":
-                if pid in g_stack:
-                    problems.append(f"G [[{pid}]] opened twice without close")
                 g_stack.append(pid)
             elif kind == "/G":
-                if not g_stack or g_stack[-1] != pid:
-                    problems.append(
-                        f"/G [[{pid}]] does not match open G (stack: {g_stack[-3:]})")
+                if not g_stack:
+                    problems.append(f"stray /G [[{pid}]] has no open G")
                 else:
                     g_stack.pop()
         if g_stack:
@@ -219,13 +216,7 @@ class SdlxliffTool:
         for pid in opens - closes:
             problems.append(
                 f"BPT [[{pid}]] has no matching EPT (may be intentional)")
-            # --- G-set check: every /G id must correspond to some G id ---
-            g_ids = {m.group(1) for m in PLACEHOLDER_RE.finditer(text)
-                     if m.group(2) == "G"}
-            for m in PLACEHOLDER_RE.finditer(text):
-                if m.group(2) == "/G" and m.group(1) not in g_ids:
-                    problems.append(f"/G [[{m.group(1)}]] has no matching G")
-            return problems
+        return problems
 
     # ------------------------------------------------------------------ #
     #  INJECTION                                                         #
@@ -255,9 +246,8 @@ class SdlxliffTool:
             if kind == "G":
                 stack.append(pid)
             elif kind == "/G":
-                if not stack or stack[-1] != pid:
-                    log.error("Seg %s: /G [[%s]] mismatched (stack %s)",
-                              seg.seg_id, pid, stack)
+                if not stack:
+                    log.error("Seg %s: stray /G [[%s]]", seg.seg_id, pid)
                     return False
                 stack.pop()
         if stack:

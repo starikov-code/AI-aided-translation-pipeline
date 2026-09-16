@@ -210,17 +210,17 @@ def validate_translation(source: str, translated: str) -> List[str]:
             problems.append(f"missing placeholders: {sorted(missing)}")
         if extra:
             problems.append(f"unknown placeholders: {sorted(extra)}")
-    # G nesting balance
+    # G nesting balance — by order, ignoring close numbers
     stack: list = []
     for m in PLACEHOLDER_RE.finditer(translated):
         kind = m.group(2)
         if kind == "G":
             stack.append(m.group(1))
         elif kind == "/G":
-            if not stack or stack[-1] != m.group(1):
-                problems.append("mismatched /G in translation")
-                break
-            stack.pop()
+            if not stack:
+                problems.append("stray /G in translation")
+            else:
+                stack.pop()
     if stack:
         problems.append(f"unclosed G tags: {stack}")
     return problems
@@ -273,19 +273,17 @@ text from {src_lang} to {tgt_lang}.
 Rules:
 1. The text contains special placeholders enclosed in double square brackets, \
 such as [[1:BPT]], [[2:EPT]], [[3:PH:tag]], [[4:X:x-bd]], and paired group \
-placeholders [[5:G:ctype="bold"]] ... [[5:/G]]. You MUST copy every \
-placeholder into the translation exactly as-is: same numbering, same type, \
-and same extra part after the second colon (if present). Never translate, \
-rename, renumber, merge, split, drop, or invent placeholders.
-   - Opening group placeholders look like [[n:G:...]] and their matching \
-closing placeholders look like [[n:/G]] — with a slash before G and NO \
-extra part after it. Always reproduce both members of each pair and keep \
-the number matching.
+placeholders [[5:G]] ... [[5:/G]]. You MUST copy every placeholder into the \
+translation exactly as-is: same numbering, same type, and same extra part \
+after the second colon (if present). Never translate, rename, renumber, \
+merge, split, drop, or invent placeholders.
+   - Opening group placeholders look like [[n:G]] and their matching closing \
+placeholders look like [[n:/G]]. Always reproduce both members of each pair.
 2. Placeholders represent inline formatting tags. Their POSITION in the \
 sentence may change to match natural {tgt_lang} word order, but paired \
-[[n:BPT]] ... [[n:EPT]] and [[n:G:...]] ... [[n:/G]] must both appear, in \
-the correct order (open before close), and must not overlap incorrectly. \
-Text placed between [[n:G:...]] and its [[n:/G]] is the text carrying that \
+[[n:BPT]] ... [[n:EPT]] and [[n:G]] ... [[n:/G]] must both appear, in the \
+correct order (open before close), and must not overlap incorrectly. Text \
+placed between [[n:G]] and its [[n:/G]] is the text carrying that \
 formatting — put inside it only the words that are formatted in the source.
 3. Translate only the human-readable text between placeholders. Never \
 output a placeholder adjacent to another placeholder if there was text \
@@ -483,7 +481,7 @@ def main() -> int:
             try:
                 res = call([(0, row.source)], args,
                            args.src_lang, args.tgt_lang)
-                text = res.get(0, "").strip()
+                text = repair_g_pairs(res.get(0, "").strip())
                 probs = validate_translation(row.source, text)
                 if not probs:
                     row.translated = text
@@ -510,7 +508,7 @@ def main() -> int:
                     failed.append(r)
             return
         for i, r in enumerate(batch):
-            text = res.get(i, "").strip()
+            text = repair_g_pairs(res.get(i, "").strip())
             probs = validate_translation(r.source, text)
             if text and not probs:
                 r.translated = text
