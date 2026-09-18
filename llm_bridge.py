@@ -107,7 +107,7 @@ PRESETS = {
     },
     "openrouter": {
         "base_url": "https://openrouter.ai/api/v1",
-        "model": "meta-llama/llama-3.3-70b-instruct:free",
+        "model": "qwen/qwen3.8-27b:free",
         "env_var": "OPENROUTER_API_KEY",
         "needs_key": True,
     },
@@ -119,7 +119,7 @@ PRESETS = {
     },
     "ollama": {
         "base_url": "http://localhost:11434/v1",
-        "model": "qwen2.5:7b-instruct",
+        "model": "qwen2.5:3b",
         "env_var": None,                 # no key needed
         "needs_key": False,
     },
@@ -290,7 +290,12 @@ output a placeholder adjacent to another placeholder if there was text \
 between them in the source, and never insert text directly inside a \
 placeholder's brackets.
 4. Output ONLY the translation — no explanations, no quotes around it, \
-no original text."""
+no original text.
+5. The target language Persian is written right-to-left. Do NOT insert
+   Unicode direction marks (U+200E/U+200F/U+202A-U+202E) into the output.
+6. Source segments may be in Russian or English. Translate the actual
+   meaning — never transliterate or translate back through English."""
+
 
 
 def build_batch_prompt(pairs: List[tuple], src_lang: str, tgt_lang: str) -> str:
