@@ -107,7 +107,7 @@ PRESETS = {
     },
     "openrouter": {
         "base_url": "https://openrouter.ai/api/v1",
-        "model": "qwen/qwen3.8-27b:free",
+        "model": "tencent/hy-mt2-30b-a3b",
         "env_var": "OPENROUTER_API_KEY",
         "needs_key": True,
     },
@@ -119,7 +119,7 @@ PRESETS = {
     },
     "ollama": {
         "base_url": "http://localhost:11434/v1",
-        "model": "qwen2.5:3b",
+        "model": "gemma2:2b",
         "env_var": None,                 # no key needed
         "needs_key": False,
     },
@@ -291,10 +291,10 @@ between them in the source, and never insert text directly inside a \
 placeholder's brackets.
 4. Output ONLY the translation — no explanations, no quotes around it, \
 no original text.
-5. The target language Persian is written right-to-left. Do NOT insert
-   Unicode direction marks (U+200E/U+200F/U+202A-U+202E) into the output.
-6. Source segments may be in Russian or English. Translate the actual
-   meaning — never transliterate or translate back through English."""
+5. Never use em-dashes where a comma will suffice. Use dashes when they are present in the source text \ 
+or only when absolutely necessary for natural flow of speech.
+6. Split long sentences ( >50 words) into two unless there is risk of cohesion loss     
+"""
 
 
 

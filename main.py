@@ -141,34 +141,49 @@ class SdlxliffTool:
         Yield (seg_id, source_container, target_container).
         Pattern A: <seg-source> with <mrk mtype="seg"> children.
         Pattern B: plain <source>/<target>.
+        Pattern C: no <seg-source>, no <source> — target-only files, segmented
+        on the target's own <mrk mtype="seg"> children (or the bare <target>
+        as a single whole segment if it has none).
         """
         seg_source = tu.find(q("seg-source"))
         if seg_source is not None:
             target = tu.find(q("target"))
             tgt_mrks: Dict[str, etree._Element] = {}
             if target is not None:
-                for m in target.findall(q("mrk")):
+                for m in target.findall(".//" + q("mrk")):
                     mid = m.get("mid")
                     if mid is not None:
                         tgt_mrks[mid] = m
-            for m in seg_source.findall(q("mrk")):
+            for m in seg_source.findall(".//" + q("mrk")):
                 if m.get("mtype") != "seg":
                     continue
                 # Stable ID: trans-unit id + mrk mid, falling back to tu id + position
                 tu_id = tu.get("id", "")
                 mid = m.get("mid")
                 if mid is None:
-                    mids = [x for x in seg_source.findall(q("mrk"))
+                    mids = [x for x in seg_source.findall(".//" + q("mrk"))
                             if x.get("mtype") == "seg"]
                     mid = str(mids.index(m))
                 seg_id = f"{tu_id}#{mid}"
                 yield seg_id, m, tgt_mrks.get(m.get("mid"))
-        else:
-            source = tu.find(q("source"))
-            if source is None:
-                return
-            tu_id = tu.get("id") or str(uuid.uuid4())
-            yield f"{tu_id}#whole", source, tu.find(q("target"))
+            return
+
+        source = tu.find(q("source"))
+        target = tu.find(q("target"))
+        tu_id = tu.get("id") or str(uuid.uuid4())
+
+        if source is not None:
+            yield f"{tu_id}#whole", source, target
+        elif target is not None:
+            # Fallback: no <seg-source>, no <source> — segment on the
+            # target's own <mrk mtype="seg"> children (target-side only).
+            mrks = [m for m in target.findall(".//" + q("mrk"))
+                    if m.get("mtype") == "seg"]
+            if mrks:
+                for i, m in enumerate(mrks):
+                    yield f"{tu_id}#t{i}", m, m
+            else:
+                yield f"{tu_id}#whole", target, target
 
     def extract(self) -> List[Segment]:
         self.segments.clear()
@@ -419,6 +434,9 @@ def main() -> int:
     p_ch = sub.add_parser("check", help="validate masked text in a TSV")
     p_ch.add_argument("tsv")
 
+    p_dg = sub.add_parser("diagnose",
+                          help="inspect file structure (why 0 segments?)")
+
     args = ap.parse_args()
     logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO,
                         format="%(levelname)s %(message)s")
@@ -465,6 +483,34 @@ def main() -> int:
                     for p in probs:
                         print(f"   - {p}")
         print("OK" if bad == 0 else f"{bad} problematic segment(s)")
+
+    elif args.cmd == "diagnose":
+        tus = list(tool.root.iter(q("trans-unit")))
+        print(f"Root tag:        {tool.root.tag} (version {tool.version})")
+        print(f"Trans-units:     {len(tus)}")
+        n_segsource = sum(1 for t in tus if t.find(q("seg-source")) is not None)
+        n_source    = sum(1 for t in tus if t.find(q("source")) is not None)
+        n_target    = sum(1 for t in tus if t.find(q("target")) is not None)
+        n_skip      = sum(1 for t in tus
+                          if (t.get("translate") or "yes").lower() == "no")
+        n_mrk_tgt   = sum(1 for t in tus for m in t.iter(q("mrk"))
+                          if m.get("mtype") == "seg")
+        print(f"  with <seg-source>: {n_segsource}")
+        print(f"  with <source>:     {n_source}")
+        print(f"  with <target>:     {n_target}")
+        print(f"  translate=no:      {n_skip}")
+        print(f"  mrk mtype=seg:     {n_mrk_tgt}")
+        # show all namespaces actually used
+        ns = set()
+        for el in tool.root.iter():
+            if isinstance(el.tag, str) and el.tag.startswith("{"):
+                ns.add(el.tag.split("}")[0][1:])
+        print("Namespaces seen:")
+        for n in sorted(ns):
+            print(f"  {n}")
+        if tus:
+            print("\nFirst trans-unit (truncated):")
+            print(etree.tostring(tus[0], pretty_print=True).decode()[:2000])
 
     return 0
 
