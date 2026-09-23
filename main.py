@@ -9,6 +9,7 @@ sdlxliff_tool.py — SDLXLIFF extraction, masking, and injection utility.
   4. Inject translated targets back, deep-copying tag elements from source.
 
 Requires: lxml  (pip install lxml)
+Author: A. Starikov
 """
 
 import argparse
